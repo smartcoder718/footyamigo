@@ -1,0 +1,79 @@
+{
+  "disabled": {
+    "value": "disabled",
+    "text": "Disabled",
+    "info": "",
+    "type": "",
+    "label": "Count all ? so far"
+  },
+  "atMinuteX": {
+    "value": "atMinuteX",
+    "text": "At minute X",
+    "info": "at minute ***",
+    "type": "fixed",
+    "label": "Count all ? at minute X"
+  },
+  "xMinutesAgo": {
+    "value": "xMinutesAgo",
+    "text": "X minutes ago",
+    "info": "*** minute(s) ago",
+    "type": "fixed",
+    "label": "Count ? X minutes(s) ago"
+  },
+  "betweenMinutesXandY": {
+    "value": "betweenMinutesXandY",
+    "text": "Between minutes X and Y",
+    "info": "between the minutes ***",
+    "type": "multiple",
+    "label": "Only count ? between the X and Y minutes of the match"
+  },
+  "pastXminutes": {
+    "value": "pastXminutes",
+    "text": "Past X minutes",
+    "info": "past *** minutes",
+    "type": "fixed",
+    "label": "Only count ? within the past X minute(s) of the match"
+  },
+  "sinceMinuteX": {
+    "value": "sinceMinuteX",
+    "text": "Since minute X",
+    "info": "since minute ***",
+    "type": "fixed",
+    "label": "Count all ? since minute X"
+  },
+  "untilMinuteX": {
+    "value": "untilMinuteX",
+    "text": "Until minute X",
+    "info": "until minute ***",
+    "type": "fixed",
+    "label": "Count all ? until minute X"
+  },
+  "during1stHalf": {
+    "value": "during1stHalf",
+    "text": "During 1st Half",
+    "info": "during the 1st half",
+    "type": "",
+    "label": "Count all ? during the 1st half"
+  },
+  "during2ndHalf": {
+    "value": "during2ndHalf",
+    "text": "During 2nd Half",
+    "info": "during the 2nd half",
+    "type": "",
+    "label": "Count all ? during the 2nd half"
+  },
+  "atHalfTime": {
+    "value": "atHalfTime",
+    "text": "At Half Time",
+    "info": "at half time",
+    "type": "",
+    "label": "Count all ? so far at half time"
+  },
+  "atFullTime": {
+    "value": "atFullTime",
+    "text": "At Full Time",
+    "info": "at the end of the match",
+    "type": "",
+    "label": "Count all ? at the end of the match"
+  }
+}

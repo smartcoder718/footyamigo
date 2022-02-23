@@ -1,0 +1,10 @@
+📦 parsers
+ ┣ 🗄️ json
+ ┃ ┗ 🗂️ rules-map.json ✅ 
+ ┣ 🗂️ .DS_Store ✅ 
+ ┣ 🗂️ FindFixturesQuickAlert.js ❌
+ ┣ 🗂️ InPlayParser.js ❌
+ ┣ 🗂️ LiveStatParser.js ❌
+ ┣ 🗂️ OutcomesParser.js ❌
+ ┣ 🗂️ PrePlayParser.js ❌
+ ┗ 🗂️ QuickAlertParser.js ❌

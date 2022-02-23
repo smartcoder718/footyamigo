@@ -1,0 +1,7 @@
+@media screen and (min-width: $lg) {
+  .wrap-on-lg {
+    flex-direction: column;
+    row-gap: 8px;
+    width: 100%;
+  }
+}

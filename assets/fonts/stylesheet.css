@@ -1,0 +1,131 @@
+@font-face {
+  font-family: "Colfax";
+  src: url("Colfax-BoldItalic.woff2") format("woff2"),
+    url("Colfax-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+
+  ascent-override: 100%;
+}
+
+@font-face {
+  font-family: "Colfax";
+  src: url("Colfax-Bold.woff2") format("woff2"),
+    url("Colfax-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+
+  ascent-override: 100%;
+}
+
+@font-face {
+  font-family: "Colfax";
+  src: url("Colfax-BlackItalic.woff2") format("woff2"),
+    url("Colfax-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+
+  ascent-override: 100%;
+}
+
+@font-face {
+  font-family: "Colfax";
+  src: url("Colfax-Black.woff2") format("woff2"),
+    url("Colfax-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+
+  ascent-override: 100%;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Colfax";
+  src: url("Colfax-Light.woff2") format("woff2"),
+    url("Colfax-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+
+  ascent-override: 100%;
+}
+
+@font-face {
+  font-family: "Colfax";
+  src: url("Colfax-LightItalic.woff2") format("woff2"),
+    url("Colfax-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+
+  ascent-override: 100%;
+}
+
+@font-face {
+  font-family: "Colfax";
+  src: url("Colfax-MediumItalic.woff2") format("woff2"),
+    url("Colfax-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+
+  ascent-override: 100%;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Colfax";
+  src: url("Colfax-Medium.woff2") format("woff2"),
+    url("Colfax-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+
+  ascent-override: 100%;
+}
+
+@font-face {
+  font-family: "Colfax";
+  src: url("Colfax-Regular.woff2") format("woff2"),
+    url("Colfax-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+
+  ascent-override: 100%;
+}
+
+@font-face {
+  font-family: "Colfax";
+  src: url("Colfax-RegularItalic.woff2") format("woff2"),
+    url("Colfax-RegularItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+
+  ascent-override: 100%;
+}
+
+@font-face {
+  font-family: "Colfax";
+  src: url("Colfax-ThinItalic.woff2") format("woff2"),
+    url("Colfax-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+
+  ascent-override: 100%;
+}
+
+@font-face {
+  font-family: "Colfax";
+  src: url("Colfax-Thin.woff2") format("woff2"),
+    url("Colfax-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+
+  ascent-override: 100%;
+}

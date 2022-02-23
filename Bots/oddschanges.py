@@ -1,0 +1,27 @@
+{
+    "o05_1h_goals": "o05_goals_1h",
+    "o15_1h_goals": "o15_goals_1h",
+    "o25_1h_corners": "o25_corners_1h",
+    "o35_1h_corners": "o35_corners_1h",
+    "o45_1h_corners": "o45_corners_1h",
+    "o55_1h_corners": "o55_corners_1h",
+    "o05_1h_home_goals": "o05_home_goals_1h",
+    "o15_1h_home_goals": "o15_home_goals_1h",
+    "o05_2h_home_goals": "o05_home_goals_2h",
+    "o15_2h_home_goals": "o15_home_goals_2h",
+    "o05_1h_home_goals": "o05_home_goals_1h",
+    "o15_1h_home_goals": "o15_home_goals_1h",
+    "o05_2h_home_goals": "o05_home_goals_2h",
+    "o15_2h_home_goals": "o15_home_goals_2h",
+    "o05_1h_away_goals": "o05_away_goals_1h",
+    "o15_1h_away_goals": "o15_away_goals_1h",
+    "o05_2h_away_goals": "o05_away_goals_2h",
+    "o15_2h_away_goals": "o15_away_goals_2h",
+    "o05_1h_cards_for": "o05_cards_for_1h",
+    "o05_1h_home_cards": "o05_home_cards_1h",
+    "o05_1h_away_cards": "o05_away_cards_1h",
+    "o05_1h_cards_against": "o05_cards_against_1h",
+    "o05_1h_home_cards": "o05_home_cards_1h",
+    "o05_1h_away_cards": "o05_away_cards_1h"
+
+}

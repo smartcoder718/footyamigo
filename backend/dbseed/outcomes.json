@@ -1,0 +1,669 @@
+[
+  {
+    "code": "home_win",
+    "label": "Home Win",
+    "is_bet_builder": true
+  },
+  {
+    "code": "draw",
+    "label": "Draw"
+  },
+  {
+    "code": "away_win",
+    "label": "Away Win",
+    "is_bet_builder": true
+  },
+  {
+    "code": "home_win_or_draw",
+    "label": "Double Chance: 1X"
+  },
+  {
+    "code": "home_win_or_away_win",
+    "label": "Double Chance: 12"
+  },
+  {
+    "code": "away_win_or_draw",
+    "label": "Double Chance: X2"
+  },
+  {
+    "code": "home_win_ht",
+    "label": "Home Win at HT"
+  },
+  {
+    "code": "draw_ht",
+    "label": "Draw at HT"
+  },
+  {
+    "code": "away_win_ht",
+    "label": "Away Win at HT"
+  },
+  {
+    "code": "home_win_ht_home_win",
+    "label": "HT/FT: Home/Home"
+  },
+  {
+    "code": "home_win_ht_draw",
+    "label": "HT/FT: Home/Draw"
+  },
+  {
+    "code": "home_win_ht_away_win",
+    "label": "HT/FT: Home/Away"
+  },
+  {
+    "code": "draw_ht_home_win",
+    "label": "HT/FT: Draw/Home"
+  },
+  {
+    "code": "draw_ht_draw",
+    "label": "HT/FT: Draw/Draw"
+  },
+  {
+    "code": "draw_ht_away_win",
+    "label": "HT/FT: Draw/Away"
+  },
+  {
+    "code": "away_win_ht_home_win",
+    "label": "HT/FT: Away/Home"
+  },
+  {
+    "code": "away_win_ht_draw",
+    "label": "HT/FT: Away/Draw"
+  },
+  {
+    "code": "away_win_ht_away_win",
+    "label": "HT/FT: Away/Away"
+  },
+  {
+    "code": "btts",
+    "label": "BTTS:Yes",
+    "is_bet_builder": true
+  },
+  {
+    "code": "btts_no",
+    "label": "BTTS:No"
+  },
+  {
+    "code": "btts_o25",
+    "label": "BTTS & Over 2.5 Goals"
+  },
+  {
+    "code": "btts_or_o25",
+    "label": "BTTS or Over Goals"
+  },
+  {
+    "code": "btts_1h",
+    "label": "BTTS 1H (Yes)"
+  },
+  {
+    "code": "btts_2h",
+    "label": "BTTS 2H (Yes)"
+  },
+  {
+    "code": "btts_1h_btts_2h",
+    "label": "BTTS 1H (Yes) & 2H (Yes)"
+  },
+  {
+    "code": "home_win_o25",
+    "label": "Home Win & Over 2.5 Goals"
+  },
+  {
+    "code": "draw_o25",
+    "label": "Draw & Over 2.5 Goals"
+  },
+  {
+    "code": "away_win_o25",
+    "label": "Away Win & Over 2.5 Goals"
+  },
+  {
+    "code": "home_win_btts",
+    "label": "Home Win & BTTS"
+  },
+  {
+    "code": "draw_btts",
+    "label": "Draw & BTTS"
+  },
+  {
+    "code": "away_win_btts",
+    "label": "Away Win & BTTS"
+  },
+  {
+    "code": "most_goals_1h",
+    "label": "Most Goals: 1st Half"
+  },
+  {
+    "code": "most_goals_2h",
+    "label": "Most Goals: 2nd Half"
+  },
+  {
+    "code": "u15_goals_1h",
+    "label": "Under 1.5 First-Half Goals"
+  },
+  {
+    "code": "u05_goals_1h",
+    "label": "Under 0.5 First-Half Goals"
+  },
+  {
+    "code": "o05_goals_1h",
+    "label": "Over 0.5 First-Half Goals"
+  },
+  {
+    "code": "o15_goals_1h",
+    "label": "Over 1.5 First-Half Goals"
+  },
+  {
+    "code": "o05_goals_2h",
+    "label": "Over 0.5 Second-Half Goals"
+  },
+  {
+    "code": "o15_goals_2h",
+    "label": "Over 1.5 Second-Half Goals"
+  },
+  {
+    "code": "o05_goals",
+    "label": "Over 0.5 Total Goals"
+  },
+  {
+    "code": "o15_goals",
+    "label": "Over 1.5 Total Goals",
+    "is_bet_builder": true
+  },
+  {
+    "code": "o25_goals",
+    "label": "Over 2.5 Total Goals",
+    "is_bet_builder": true
+  },
+  {
+    "code": "o35_goals",
+    "label": "Over 3.5 Total Goals"
+  },
+  {
+    "code": "o45_goals",
+    "label": "Over 4.5 Total Goals"
+  },
+  {
+    "code": "o55_goals",
+    "label": "Over 5.5 Total Goals"
+  },
+  {
+    "code": "u05_goals",
+    "label": "Under 0.5 Total Goals"
+  },
+  {
+    "code": "u15_goals",
+    "label": "Under 1.5 Total Goals"
+  },
+  {
+    "code": "u25_goals",
+    "label": "Under 2.5 Total Goals"
+  },
+  {
+    "code": "u35_goals",
+    "label": "Under 3.5 Total Goals"
+  },
+  {
+    "code": "u45_goals",
+    "label": "Under 4.5 Total Goals"
+  },
+  {
+    "code": "u55_goals",
+    "label": "Under 5.5 Total Goals"
+  },
+  {
+    "code": "o05_home_goals",
+    "label": "Over 0.5 Home Goals"
+  },
+  {
+    "code": "o15_home_goals",
+    "label": "Over 1.5 Home Goals",
+    "is_bet_builder": true
+  },
+  {
+    "code": "o25_home_goals",
+    "label": "Over 2.5 Home Goals"
+  },
+  {
+    "code": "u05_home_goals",
+    "label": "Under 0.5 Home Goals"
+  },
+  {
+    "code": "u15_home_goals",
+    "label": "Under 1.5 Home Goals"
+  },
+  {
+    "code": "u25_home_goals",
+    "label": "Under 2.5 Home Goals"
+  },
+  {
+    "code": "o05_away_goals",
+    "label": "Over 0.5 Away Goals"
+  },
+  {
+    "code": "o15_away_goals",
+    "label": "Over 1.5 Away Goals",
+    "is_bet_builder": true
+  },
+  {
+    "code": "o25_away_goals",
+    "label": "Over 2.5 Away Goals"
+  },
+  {
+    "code": "u05_away_goals",
+    "label": "Under 0.5 Away Goals"
+  },
+  {
+    "code": "u15_away_goals",
+    "label": "Under 1.5 Away Goals"
+  },
+  {
+    "code": "u25_away_goals",
+    "label": "Under 2.5 Away Goals"
+  },
+  {
+    "code": "o05_home_goals_1h",
+    "label": "Over 0.5 Home Goals (1H)"
+  },
+  {
+    "code": "o15_home_goals_1h",
+    "label": "Over 1.5 Home Goals (1H)"
+  },
+  {
+    "code": "o05_home_goals_2h",
+    "label": "Over 0.5 Home Goals (2H)"
+  },
+  {
+    "code": "o15_home_goals_2h",
+    "label": "Over 1.5 Home Goals (2H)"
+  },
+  {
+    "code": "o15_away_goals_1h",
+    "label": "Over 1.5 Away Goals (1H)"
+  },
+  {
+    "code": "o05_away_goals_2h",
+    "label": "Over 0.5 Away Goals (2H)"
+  },
+  {
+    "code": "o15_away_goals_2h",
+    "label": "Over 1.5 Away Goals (2H)"
+  },
+  {
+    "code": "goals_between_0_10",
+    "label": "0-10 Min Goal"
+  },
+  {
+    "code": "goals_between_0_15",
+    "label": "0-15 Min Goal"
+  },
+  {
+    "code": "goals_between_35_45",
+    "label": "35-45 Min Goal"
+  },
+  {
+    "code": "goals_between_40_45",
+    "label": "40-45 Min Goal"
+  },
+  {
+    "code": "goals_after_70",
+    "label": "Goal After 70 Mins"
+  },
+  {
+    "code": "goals_between_75_90",
+    "label": "75-90 Min Goal"
+  },
+  {
+    "code": "goals_between_80_90",
+    "label": "80-90 Min Goal"
+  },
+  {
+    "code": "goals_between_85_90",
+    "label": "85-90 Min Goal"
+  },
+  {
+    "code": "u65_corners",
+    "label": "Under 6.5 Corners"
+  },
+  {
+    "code": "o65_corners",
+    "label": "Over 6.5 Corners"
+  },
+  {
+    "code": "u75_corners",
+    "label": "Under 7.5 Corners"
+  },
+  {
+    "code": "o75_corners",
+    "label": "Over 7.5 Corners"
+  },
+  {
+    "code": "u85_corners",
+    "label": "Under 8.5 Corners"
+  },
+  {
+    "code": "o85_corners",
+    "label": "Over 8.5 Corners"
+  },
+  {
+    "code": "u95_corners",
+    "label": "Under 9.5 Corners"
+  },
+  {
+    "code": "o95_corners",
+    "label": "Over 9.5 Corners"
+  },
+  {
+    "code": "u105_corners",
+    "label": "Under 10.5 Corners"
+  },
+  {
+    "code": "o105_corners",
+    "label": "Over 10.5 Corners"
+  },
+  {
+    "code": "u115_corners",
+    "label": "Under 11.5 Corners"
+  },
+  {
+    "code": "o115_corners",
+    "label": "Over 11.5 Corners"
+  },
+  {
+    "code": "o05_corners_1h",
+    "label": "Over 0.5 1H Corners"
+  },
+  {
+    "code": "o15_corners_1h",
+    "label": "Over 1.5 1H Corners"
+  },
+  {
+    "code": "o25_corners_1h",
+    "label": "Over 2.5 1H Corners"
+  },
+  {
+    "code": "o35_corners_1h",
+    "label": "Over 3.5 1H Corners"
+  },
+  {
+    "code": "o45_corners_1h",
+    "label": "Over 4.5 1H Corners"
+  },
+  {
+    "code": "o15_corners_2h",
+    "label": "Over 1.5 2H Corners"
+  },
+  {
+    "code": "o25_corners_2h",
+    "label": "Over 2.5 2H Corners"
+  },
+  {
+    "code": "o35_corners_2h",
+    "label": "Over 3.5 2H Corners"
+  },
+  {
+    "code": "o45_corners_2h",
+    "label": "Over 4.5 2H Corners"
+  },
+  {
+    "code": "most_corners_1h",
+    "label": "Most Corners: 1H"
+  },
+  {
+    "code": "most_corners_2h",
+    "label": "Most Corners: 2H"
+  },
+  {
+    "code": "most_corners_no",
+    "label": "Most Corners: Tie"
+  },
+  {
+    "code": "o25_home_corners",
+    "label": "Over 2.5 Home Corners"
+  },
+  {
+    "code": "o35_home_corners",
+    "label": "Over 3.5 Home Corners"
+  },
+  {
+    "code": "o45_home_corners",
+    "label": "Over 4.5 Home Corners"
+  },
+  {
+    "code": "o55_home_corners",
+    "label": "Over 5.5 Home Corners"
+  },
+  {
+    "code": "o65_home_corners",
+    "label": "Over 6.5 Home Corners"
+  },
+  {
+    "code": "o75_home_corners",
+    "label": "Over 7.5 Home Corners"
+  },
+  {
+    "code": "o25_away_corners",
+    "label": "Over 2.5 Away Corners"
+  },
+  {
+    "code": "o35_away_corners",
+    "label": "Over 3.5 Away Corners"
+  },
+  {
+    "code": "o45_away_corners",
+    "label": "Over 4.5 Away Corners"
+  },
+  {
+    "code": "o55_away_corners",
+    "label": "Over 5.5 Away Corners"
+  },
+  {
+    "code": "o65_away_corners",
+    "label": "Over 6.5 Away Corners"
+  },
+  {
+    "code": "o75_away_corners",
+    "label": "Over 7.5 Away Corners"
+  },
+  {
+    "code": "o15_home_corners_1h",
+    "label": "Over 1.5 Home 1H Corners"
+  },
+  {
+    "code": "o25_home_corners_1h",
+    "label": "Over 2.5 Home 1H Corners"
+  },
+  {
+    "code": "o35_home_corners_1h",
+    "label": "Over 3.5 Home 1H Corners"
+  },
+  {
+    "code": "o45_home_corners_1h",
+    "label": "Over 4.5 Home 1H Corners"
+  },
+  {
+    "code": "o15_away_corners_1h",
+    "label": "Over 1.5 Away 1H Corners"
+  },
+  {
+    "code": "o25_away_corners_1h",
+    "label": "Over 2.5 Away 1H Corners"
+  },
+  {
+    "code": "o35_away_corners_1h",
+    "label": "Over 3.5 Away 1H Corners"
+  },
+  {
+    "code": "o45_away_corners_1h",
+    "label": "Over 4.5 Away 1H Corners"
+  },
+  {
+    "code": "o15_home_corners_2h",
+    "label": "Over 1.5 Home 2H Corners"
+  },
+  {
+    "code": "o25_home_corners_2h",
+    "label": "Over 2.5 Home 2H Corners"
+  },
+  {
+    "code": "o35_home_corners_2h",
+    "label": "Over 3.5 Home 2H Corners"
+  },
+  {
+    "code": "o45_home_corners_2h",
+    "label": "Over 4.5 Home 2H Corners"
+  },
+  {
+    "code": "o15_away_corners_2h",
+    "label": "Over 1.5 Away 2H Corners"
+  },
+  {
+    "code": "o25_away_corners_2h",
+    "label": "Over 2.5 Away 2H Corners"
+  },
+  {
+    "code": "o35_away_corners_2h",
+    "label": "Over 3.5 Away 2H Corners"
+  },
+  {
+    "code": "o45_away_corners_2h",
+    "label": "Over 4.5 Away 2H Corners"
+  },
+  {
+    "code": "corners_between_0_10",
+    "label": "0-10 Min Corner"
+  },
+  {
+    "code": "corners_between_0_15",
+    "label": "0-15 Min Corner"
+  },
+  {
+    "code": "corners_between_35_45",
+    "label": "35-45 Min Corner"
+  },
+  {
+    "code": "corners_between_40_45",
+    "label": "40-45 Min Corner"
+  },
+  {
+    "code": "corners_between_75_90",
+    "label": "75-90 Min Corner"
+  },
+  {
+    "code": "corners_between_80_90",
+    "label": "80-90 Min Corner"
+  },
+  {
+    "code": "corners_between_85_90",
+    "label": "85-90 Min Corner"
+  },
+  {
+    "code": "o25_cards",
+    "label": "Over 2.5 Cards"
+  },
+  {
+    "code": "o35_cards",
+    "label": "Over 3.5 Cards"
+  },
+  {
+    "code": "o45_cards",
+    "label": "Over 4.5 Cards"
+  },
+  {
+    "code": "o55_cards",
+    "label": "Over 5.5 Cards"
+  },
+  {
+    "code": "o05_home_yellow_cards",
+    "label": "Over 0.5 Home Yellow Cards"
+  },
+  {
+    "code": "o15_home_yellow_cards",
+    "label": "Over 1.5 Home Yellow Cards"
+  },
+  {
+    "code": "o25_home_yellow_cards",
+    "label": "Over 2.5 Home Yellow Cards"
+  },
+  {
+    "code": "o05_away_yellow_cards",
+    "label": "Over 0.5 Away Yellow Cards"
+  },
+  {
+    "code": "o15_away_yellow_cards",
+    "label": "Over 1.5 Away Yellow Cards"
+  },
+  {
+    "code": "o25_away_yellow_cards",
+    "label": "Over 2.5 Away Yellow Cards"
+  },
+  {
+    "code": "o05_home_away_cards",
+    "label": "Over 0.5 Cards (Both Teams)"
+  },
+  {
+    "code": "o15_home_away_cards",
+    "label": "Over 1.5 Cards (Both Teams)"
+  },
+  {
+    "code": "o05_home_red_cards",
+    "label": "Over 0.5 Home Red Cards"
+  },
+  {
+    "code": "o05_away_red_cards",
+    "label": "Over 0.5 Away Red Cards"
+  },
+  {
+    "code": "o05_cards_1h",
+    "label": "Over 0.5 1H Cards"
+  },
+  {
+    "code": "o15_cards_1h",
+    "label": "Over 1.5 1H Cards"
+  },
+  {
+    "code": "o25_cards_1h",
+    "label": "Over 2.5 1H Cards"
+  },
+  {
+    "code": "o05_cards_2h",
+    "label": "Over 0.5 2H Cards"
+  },
+  {
+    "code": "o15_cards_2h",
+    "label": "Over 1.5 2H Cards"
+  },
+  {
+    "code": "o25_cards_2h",
+    "label": "Over 2.5 2H Cards"
+  },
+  {
+    "code": "o05_home_cards_1h",
+    "label": "Over 0.5 1H Home Cards"
+  },
+  {
+    "code": "o15_home_cards_1h",
+    "label": "Over 1.5 1H Home Cards"
+  },
+  {
+    "code": "o05_away_cards_1h",
+    "label": "Over 0.5 1H Away Cards"
+  },
+  {
+    "code": "o15_away_cards_1h",
+    "label": "Over 1.5 1H Away Cards"
+  },
+  {
+    "code": "o05_home_cards_2h",
+    "label": "Over 0.5 2H Home Cards"
+  },
+  {
+    "code": "o15_home_cards_2h",
+    "label": "Over 1.5 2H Home Cards"
+  },
+  {
+    "code": "o05_away_cards_2h",
+    "label": "Over 0.5 2H Away Cards"
+  },
+  {
+    "code": "o15_away_cards_2h",
+    "label": "Over 1.5 2H Away Cards"
+  }
+]

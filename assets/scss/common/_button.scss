@@ -1,0 +1,129 @@
+.btn-block + .btn-block {
+  margin-top: 0rem;
+}
+button {
+  font-weight: 500;
+}
+
+.footy-button {
+  /* Auto Layout */
+  display: inline-flex;
+  align-items: center;
+  padding: 17px 24px;
+  justify-content: center;
+  border-radius: 12px;
+  font-weight: 500; //COLFAX
+  font-size: 14px;
+  line-height: 20px;
+  white-space: nowrap;
+  svg {
+    height: 16px !important;
+  }
+  &:disabled {
+    //background: #d5ded5;
+    border: none;
+    cursor: not-allowed;
+  }
+  &.footy-button-thin {
+    padding: 12px;
+    border-radius: 10px;
+  }
+
+  .material-icons-outlined {
+    font-size: 16px !important;
+    margin-right: 8px;
+  }
+  &.footy-button-xs {
+    padding: 13px;
+  }
+  &.footy-button-sm {
+    padding: 17px;
+  }
+}
+
+.footy-button-group {
+  display: flex;
+
+  padding: 0px;
+  column-gap: 8px;
+  flex-shrink: 0;
+  flex-grow: 0;
+  &.scrollable {
+    overflow-x: auto;
+  }
+
+  .active {
+    background: #ffffff;
+    border: 2px solid #60b15a;
+    box-sizing: border-box;
+    border-radius: 10px;
+    span {
+      color: #60b15a;
+    }
+  }
+}
+
+.step-button-group {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  row-gap: 10px;
+}
+@media (max-width: $lg) {
+  .step-button-group {
+    .footy-button {
+      width: 100%;
+    }
+  }
+}
+
+.footy-radio-group {
+  background: #f7f9f7;
+  border: 1px solid #d5ded5;
+  box-sizing: border-box;
+  border-radius: 12px;
+  display: flex;
+  padding: 2px;
+  .btn {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+
+    text-align: center;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    border-radius: 10px;
+    background: transparent;
+    color: $dark-1;
+    border: none;
+    &.active {
+      background: #ffffff !important;
+      border: 2px solid #60b15a !important;
+      box-sizing: border-box;
+      border-radius: 10px;
+      span {
+        color: #60b15a !important;
+      }
+    }
+  }
+}
+
+.prev-button {
+  border: 1px solid #d5ded5;
+  background-color: transparent;
+}
+
+.footy-scroller-button {
+  padding: 5px 8px;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

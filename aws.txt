@@ -1,0 +1,82 @@
+The users in our website will be having some strategies created by them.
+A strategy is basically a list of conditions created and saved by a user into the database.
+A strategy can be something like these.
+Strategy 1
+{
+  Goals : 3,
+  Corners: 5,
+  Shots: 10
+}
+Strategy 2
+{
+  Goals : 0,
+  Corners: 0,
+  Shots: 2
+}
+Every strategy belongs to some user.
+Now what we do is that anytime a live football game is matched with one of the Strategy set by the user.
+The user will receive a text message saying the condition is met.
+
+Since football stats changes every few seconds. We have to run a database query for each Strategy every 30 seconds to find matching games.
+
+I am thinking to run a lambda function every 30 seconds to achieve that. But that may become very costly. 
+What would you think would be the best way to achieve this?
+
+
+If the api is returning 100 fixtures in one requests.
+The data we get after formatting will look like this
+items = [{
+  fixture= [],
+  probability: { },
+  result: { },
+  home_stat: { },
+  away_stat: { },
+  preodds: {  },
+  liveodds: { },
+  peakodds: {  }
+},
+  {
+    fixture: { },
+    probability: { },
+    result: { },
+    home_stat: { },
+    away_stat: { },
+    preodds: {  },
+    liveodds: { },
+    peakodds: {  }
+  }... 100 items
+]
+
+ fixture= [],
+    probability= [],
+    result= [],
+    home_stat= [],
+    away_stat= [],
+    preodds= [],
+    liveodds= [],
+    peakodds=[]
+Now put all the data in a list for each type
+
+for item in items:
+  fixture.append(item["fixture])
+  result.append(item["result])
+  home_stat.append(item["home_stat])
+  away_stat.append(item["away_stat])
+  preodds.append(item["preodds])
+  ...
+
+Then write to mysql
+Fixture.bulkCreate(fixture)
+Result.bulkCreate(result)
+Stat.bulkCreate(home_stat)
+Stat.bulkCreate(away_stat)
+Odds.bulkCreate(preodds)
+Odds.bulkCreate(liveodds)
+Odds.bulkCreate(peakodds)
+
+
+#SAVING FIXTURES TO DYANMODB
+for date in dates:
+  #date = "07-07-2021"
+  fixtures = requests.get("http://dummyrestapi.com/fixtures/, params={date: date})
+  saveToDynamoDB(fixtures)

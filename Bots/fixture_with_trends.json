@@ -1,0 +1,1669 @@
+{
+  "data": {
+    "id": 18358440,
+    "league_id": 947,
+    "season_id": 18820,
+    "stage_id": 77454999,
+    "round_id": 258080,
+    "group_id": null,
+    "aggregate_id": null,
+    "venue_id": 309641,
+    "referee_id": null,
+    "localteam_id": 232744,
+    "visitorteam_id": 17722,
+    "winner_team_id": null,
+    "weather_report": {
+      "code": "clear",
+      "type": "clear sky",
+      "icon": "https://cdn.sportmonks.com/images/weather/01d.png",
+      "temperature": {
+        "temp": 71.67,
+        "unit": "fahrenheit"
+      },
+      "temperature_celcius": {
+        "temp": 22,
+        "unit": "celcius"
+      },
+      "clouds": "0%",
+      "humidity": "22%",
+      "pressure": 1019,
+      "wind": {
+        "speed": "6.78 m/s",
+        "degree": 53
+      },
+      "coordinates": {
+        "lat": 26.1442,
+        "lon": 43.6593
+      },
+      "updated_at": "2021-11-29T14:00:10.184225Z"
+    },
+    "commentaries": false,
+    "attendance": null,
+    "pitch": null,
+    "details": null,
+    "neutral_venue": false,
+    "winning_odds_calculated": false,
+    "formations": {
+      "localteam_formation": null,
+      "visitorteam_formation": null
+    },
+    "scores": {
+      "localteam_score": 3,
+      "visitorteam_score": 1,
+      "localteam_pen_score": null,
+      "visitorteam_pen_score": null,
+      "ht_score": "2-0",
+      "ft_score": null,
+      "et_score": null,
+      "ps_score": null
+    },
+    "time": {
+      "status": "LIVE",
+      "starting_at": {
+        "date_time": "2021-11-29 12:15:00",
+        "date": "2021-11-29",
+        "time": "12:15:00",
+        "timestamp": 1638188100,
+        "timezone": "UTC"
+      },
+      "minute": 90,
+      "second": "35",
+      "added_time": 5,
+      "extra_minute": null,
+      "injury_time": 2
+    },
+    "coaches": {
+      "localteam_coach_id": null,
+      "visitorteam_coach_id": null
+    },
+    "standings": {
+      "localteam_position": 16,
+      "visitorteam_position": 10
+    },
+    "assistants": {
+      "first_assistant_id": null,
+      "second_assistant_id": null,
+      "fourth_official_id": null
+    },
+    "leg": "1/1",
+    "colors": {
+      "localteam": {
+        "color": "#D6003D",
+        "kit_colors": "#FFFFFF,#D6003D,#D6003D,#D6003D,#FF0000,#0000FF,#339063"
+      },
+      "visitorteam": {
+        "color": "#0046A8",
+        "kit_colors": "#0046A8,#0046A8,#0046A8,#00C1BA,#C40010,#0046A8,#3D4A4E"
+      }
+    },
+    "deleted": false,
+    "is_placeholder": false,
+    "trends": {
+      "data": [
+        {
+          "id": 9547833,
+          "fixture_id": 18358440,
+          "team_id": 17722,
+          "type": "possession",
+          "analyses": [
+            {
+              "minute": "0",
+              "amount": "35"
+            },
+            {
+              "minute": "1",
+              "amount": "30"
+            },
+            {
+              "minute": "2",
+              "amount": "42"
+            },
+            {
+              "minute": "3",
+              "amount": "35"
+            },
+            {
+              "minute": "4",
+              "amount": "30"
+            },
+            {
+              "minute": "5",
+              "amount": "27"
+            },
+            {
+              "minute": "6",
+              "amount": "35"
+            },
+            {
+              "minute": "7",
+              "amount": "30"
+            },
+            {
+              "minute": "8",
+              "amount": "32"
+            },
+            {
+              "minute": "9",
+              "amount": "33"
+            },
+            {
+              "minute": "10",
+              "amount": "30"
+            },
+            {
+              "minute": "11",
+              "amount": "35"
+            },
+            {
+              "minute": "12",
+              "amount": "36"
+            },
+            {
+              "minute": "13",
+              "amount": "37"
+            },
+            {
+              "minute": "14",
+              "amount": "39"
+            },
+            {
+              "minute": "15",
+              "amount": "41"
+            },
+            {
+              "minute": "17",
+              "amount": "35"
+            },
+            {
+              "minute": "18",
+              "amount": "34"
+            },
+            {
+              "minute": "19",
+              "amount": "33"
+            },
+            {
+              "minute": "20",
+              "amount": "35"
+            },
+            {
+              "minute": "22",
+              "amount": "48"
+            },
+            {
+              "minute": "23",
+              "amount": "50"
+            },
+            {
+              "minute": "26",
+              "amount": "50"
+            },
+            {
+              "minute": "27",
+              "amount": "50"
+            },
+            {
+              "minute": "28",
+              "amount": "52"
+            },
+            {
+              "minute": "29",
+              "amount": "52"
+            },
+            {
+              "minute": "30",
+              "amount": "54"
+            },
+            {
+              "minute": "31",
+              "amount": "58"
+            },
+            {
+              "minute": "32",
+              "amount": "56"
+            },
+            {
+              "minute": "33",
+              "amount": "55"
+            },
+            {
+              "minute": "36",
+              "amount": "54"
+            },
+            {
+              "minute": "39",
+              "amount": "55"
+            },
+            {
+              "minute": "40",
+              "amount": "56"
+            },
+            {
+              "minute": "41",
+              "amount": "57"
+            },
+            {
+              "minute": "43",
+              "amount": "59",
+              "half": "1st"
+            },
+            {
+              "minute": "45",
+              "amount": "62",
+              "half": "1st"
+            },
+            {
+              "minute": "46",
+              "amount": "60",
+              "half": "1st"
+            },
+            {
+              "minute": "47",
+              "amount": "61",
+              "half": "1st"
+            },
+            {
+              "minute": "49",
+              "amount": "61",
+              "half": "2nd"
+            },
+            {
+              "minute": "50",
+              "amount": "63",
+              "half": "2nd"
+            },
+            {
+              "minute": "51",
+              "amount": "62",
+              "half": "2nd"
+            },
+            {
+              "minute": "52",
+              "amount": "63"
+            },
+            {
+              "minute": "53",
+              "amount": "62"
+            },
+            {
+              "minute": "55",
+              "amount": "63"
+            },
+            {
+              "minute": "56",
+              "amount": "62"
+            },
+            {
+              "minute": "57",
+              "amount": "62"
+            },
+            {
+              "minute": "59",
+              "amount": "63"
+            },
+            {
+              "minute": "60",
+              "amount": "62"
+            },
+            {
+              "minute": "62",
+              "amount": "61"
+            },
+            {
+              "minute": "64",
+              "amount": "60"
+            },
+            {
+              "minute": "65",
+              "amount": "61"
+            },
+            {
+              "minute": "71",
+              "amount": "60"
+            },
+            {
+              "minute": "74",
+              "amount": "61"
+            },
+            {
+              "minute": "75",
+              "amount": "61"
+            },
+            {
+              "minute": "80",
+              "amount": "60"
+            },
+            {
+              "minute": "83",
+              "amount": "60"
+            },
+            {
+              "minute": "90",
+              "amount": "60"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 14:08:05.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547898,
+          "fixture_id": 18358440,
+          "team_id": 17722,
+          "type": "attacks",
+          "analyses": [
+            {
+              "minute": "22",
+              "amount": "1"
+            },
+            {
+              "minute": "23",
+              "amount": "2"
+            },
+            {
+              "minute": "26",
+              "amount": "3"
+            },
+            {
+              "minute": "27",
+              "amount": "5"
+            },
+            {
+              "minute": "29",
+              "amount": "8"
+            },
+            {
+              "minute": "30",
+              "amount": "9"
+            },
+            {
+              "minute": "31",
+              "amount": "11"
+            },
+            {
+              "minute": "32",
+              "amount": "12"
+            },
+            {
+              "minute": "33",
+              "amount": "13"
+            },
+            {
+              "minute": "36",
+              "amount": "15"
+            },
+            {
+              "minute": "39",
+              "amount": "17"
+            },
+            {
+              "minute": "40",
+              "amount": "18"
+            },
+            {
+              "minute": "41",
+              "amount": "19"
+            },
+            {
+              "minute": "42",
+              "amount": "21"
+            },
+            {
+              "minute": "43",
+              "amount": "23"
+            },
+            {
+              "minute": "44",
+              "amount": "24"
+            },
+            {
+              "minute": "45",
+              "amount": "37"
+            },
+            {
+              "minute": "46",
+              "amount": "29"
+            },
+            {
+              "minute": "47",
+              "amount": "38"
+            },
+            {
+              "minute": "49",
+              "amount": "40"
+            },
+            {
+              "minute": "50",
+              "amount": "43"
+            },
+            {
+              "minute": "51",
+              "amount": "44"
+            },
+            {
+              "minute": "52",
+              "amount": "45"
+            },
+            {
+              "minute": "53",
+              "amount": "46"
+            },
+            {
+              "minute": "54",
+              "amount": "47"
+            },
+            {
+              "minute": "55",
+              "amount": "49"
+            },
+            {
+              "minute": "57",
+              "amount": "50"
+            },
+            {
+              "minute": "59",
+              "amount": "51"
+            },
+            {
+              "minute": "60",
+              "amount": "52"
+            },
+            {
+              "minute": "61",
+              "amount": "53"
+            },
+            {
+              "minute": "63",
+              "amount": "55"
+            },
+            {
+              "minute": "64",
+              "amount": "56"
+            },
+            {
+              "minute": "65",
+              "amount": "57"
+            },
+            {
+              "minute": "68",
+              "amount": "59"
+            },
+            {
+              "minute": "69",
+              "amount": "61"
+            },
+            {
+              "minute": "71",
+              "amount": "63"
+            },
+            {
+              "minute": "72",
+              "amount": "65"
+            },
+            {
+              "minute": "73",
+              "amount": "68"
+            },
+            {
+              "minute": "75",
+              "amount": "69"
+            },
+            {
+              "minute": "79",
+              "amount": "70"
+            },
+            {
+              "minute": "80",
+              "amount": "71"
+            },
+            {
+              "minute": "81",
+              "amount": "72"
+            },
+            {
+              "minute": "83",
+              "amount": "73"
+            },
+            {
+              "minute": "84",
+              "amount": "75"
+            },
+            {
+              "minute": "85",
+              "amount": "76"
+            },
+            {
+              "minute": "86",
+              "amount": "77"
+            },
+            {
+              "minute": "87",
+              "amount": "78"
+            },
+            {
+              "minute": "88",
+              "amount": "79"
+            },
+            {
+              "minute": "89",
+              "amount": "80"
+            },
+            {
+              "minute": "90",
+              "amount": "82"
+            },
+            {
+              "minute": "91",
+              "amount": "84"
+            },
+            {
+              "minute": "92",
+              "amount": "85"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 14:10:03.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547899,
+          "fixture_id": 18358440,
+          "team_id": 17722,
+          "type": "dangerous_attacks",
+          "analyses": [
+            {
+              "minute": "23",
+              "amount": "1"
+            },
+            {
+              "minute": "24",
+              "amount": "2"
+            },
+            {
+              "minute": "26",
+              "amount": "3"
+            },
+            {
+              "minute": "28",
+              "amount": "4"
+            },
+            {
+              "minute": "29",
+              "amount": "5"
+            },
+            {
+              "minute": "30",
+              "amount": "7"
+            },
+            {
+              "minute": "31",
+              "amount": "10"
+            },
+            {
+              "minute": "36",
+              "amount": "12"
+            },
+            {
+              "minute": "39",
+              "amount": "14"
+            },
+            {
+              "minute": "40",
+              "amount": "15"
+            },
+            {
+              "minute": "41",
+              "amount": "16"
+            },
+            {
+              "minute": "42",
+              "amount": "17"
+            },
+            {
+              "minute": "43",
+              "amount": "18"
+            },
+            {
+              "minute": "45",
+              "amount": "27"
+            },
+            {
+              "minute": "46",
+              "amount": "28"
+            },
+            {
+              "minute": "47",
+              "amount": "26"
+            },
+            {
+              "minute": "49",
+              "amount": "30"
+            },
+            {
+              "minute": "51",
+              "amount": "31"
+            },
+            {
+              "minute": "52",
+              "amount": "33"
+            },
+            {
+              "minute": "53",
+              "amount": "35"
+            },
+            {
+              "minute": "54",
+              "amount": "37"
+            },
+            {
+              "minute": "55",
+              "amount": "38"
+            },
+            {
+              "minute": "59",
+              "amount": "39"
+            },
+            {
+              "minute": "60",
+              "amount": "40"
+            },
+            {
+              "minute": "61",
+              "amount": "41"
+            },
+            {
+              "minute": "62",
+              "amount": "42"
+            },
+            {
+              "minute": "63",
+              "amount": "43"
+            },
+            {
+              "minute": "64",
+              "amount": "44"
+            },
+            {
+              "minute": "65",
+              "amount": "46"
+            },
+            {
+              "minute": "67",
+              "amount": "47"
+            },
+            {
+              "minute": "68",
+              "amount": "48"
+            },
+            {
+              "minute": "70",
+              "amount": "49"
+            },
+            {
+              "minute": "72",
+              "amount": "50"
+            },
+            {
+              "minute": "73",
+              "amount": "52"
+            },
+            {
+              "minute": "74",
+              "amount": "53"
+            },
+            {
+              "minute": "75",
+              "amount": "54"
+            },
+            {
+              "minute": "76",
+              "amount": "55"
+            },
+            {
+              "minute": "77",
+              "amount": "56"
+            },
+            {
+              "minute": "78",
+              "amount": "58"
+            },
+            {
+              "minute": "79",
+              "amount": "60"
+            },
+            {
+              "minute": "83",
+              "amount": "61"
+            },
+            {
+              "minute": "84",
+              "amount": "62"
+            },
+            {
+              "minute": "85",
+              "amount": "64"
+            },
+            {
+              "minute": "87",
+              "amount": "66"
+            },
+            {
+              "minute": "88",
+              "amount": "67"
+            },
+            {
+              "minute": "89",
+              "amount": "69"
+            },
+            {
+              "minute": "90",
+              "amount": "70"
+            },
+            {
+              "minute": "91",
+              "amount": "71"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 14:10:03.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547978,
+          "fixture_id": 18358440,
+          "team_id": 17722,
+          "type": "off_target",
+          "analyses": [
+            {
+              "minute": "55",
+              "amount": "1"
+            },
+            {
+              "minute": "74",
+              "amount": "2"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 13:53:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547924,
+          "fixture_id": 18358440,
+          "team_id": 17722,
+          "type": "on_target",
+          "analyses": [
+            {
+              "minute": "36",
+              "amount": "1"
+            },
+            {
+              "minute": "70",
+              "amount": "2"
+            },
+            {
+              "minute": "85",
+              "amount": "3"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 14:03:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547824,
+          "fixture_id": 18358440,
+          "team_id": 17722,
+          "type": "corners",
+          "analyses": [
+            {
+              "minute": "0",
+              "amount": "0"
+            },
+            {
+              "minute": "15",
+              "amount": "1"
+            },
+            {
+              "minute": "23",
+              "amount": "2"
+            },
+            {
+              "minute": "49",
+              "amount": "3"
+            },
+            {
+              "minute": "74",
+              "amount": "4"
+            },
+            {
+              "minute": "79",
+              "amount": "5"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 13:58:05.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547828,
+          "fixture_id": 18358440,
+          "team_id": 17722,
+          "type": "goals",
+          "analyses": [
+            {
+              "minute": "0",
+              "amount": "0"
+            },
+            {
+              "minute": "70",
+              "amount": "1"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 13:48:03.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547922,
+          "fixture_id": 18358440,
+          "team_id": 17722,
+          "type": "yellowcards",
+          "analyses": [
+            {
+              "minute": "34",
+              "amount": "1"
+            },
+            {
+              "minute": "47",
+              "amount": "2"
+            },
+            {
+              "minute": "57",
+              "amount": "3"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 13:35:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547826,
+          "fixture_id": 18358440,
+          "team_id": 17722,
+          "type": "redcards",
+          "analyses": [
+            {
+              "minute": "0",
+              "amount": "0"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 12:16:05.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547832,
+          "fixture_id": 18358440,
+          "team_id": 232744,
+          "type": "possession",
+          "analyses": [
+            {
+              "minute": "0",
+              "amount": "65"
+            },
+            {
+              "minute": "1",
+              "amount": "70"
+            },
+            {
+              "minute": "2",
+              "amount": "58"
+            },
+            {
+              "minute": "3",
+              "amount": "65"
+            },
+            {
+              "minute": "4",
+              "amount": "70"
+            },
+            {
+              "minute": "5",
+              "amount": "73"
+            },
+            {
+              "minute": "6",
+              "amount": "65"
+            },
+            {
+              "minute": "7",
+              "amount": "70"
+            },
+            {
+              "minute": "8",
+              "amount": "68"
+            },
+            {
+              "minute": "9",
+              "amount": "67"
+            },
+            {
+              "minute": "10",
+              "amount": "70"
+            },
+            {
+              "minute": "11",
+              "amount": "65"
+            },
+            {
+              "minute": "12",
+              "amount": "64"
+            },
+            {
+              "minute": "13",
+              "amount": "63"
+            },
+            {
+              "minute": "14",
+              "amount": "61"
+            },
+            {
+              "minute": "15",
+              "amount": "59"
+            },
+            {
+              "minute": "17",
+              "amount": "65"
+            },
+            {
+              "minute": "18",
+              "amount": "66"
+            },
+            {
+              "minute": "19",
+              "amount": "67"
+            },
+            {
+              "minute": "20",
+              "amount": "65"
+            },
+            {
+              "minute": "22",
+              "amount": "52"
+            },
+            {
+              "minute": "23",
+              "amount": "50"
+            },
+            {
+              "minute": "26",
+              "amount": "50"
+            },
+            {
+              "minute": "27",
+              "amount": "50"
+            },
+            {
+              "minute": "28",
+              "amount": "48"
+            },
+            {
+              "minute": "29",
+              "amount": "48"
+            },
+            {
+              "minute": "30",
+              "amount": "46"
+            },
+            {
+              "minute": "31",
+              "amount": "42"
+            },
+            {
+              "minute": "32",
+              "amount": "44"
+            },
+            {
+              "minute": "33",
+              "amount": "45"
+            },
+            {
+              "minute": "36",
+              "amount": "46"
+            },
+            {
+              "minute": "39",
+              "amount": "45"
+            },
+            {
+              "minute": "40",
+              "amount": "44"
+            },
+            {
+              "minute": "41",
+              "amount": "43"
+            },
+            {
+              "minute": "43",
+              "amount": "41"
+            },
+            {
+              "minute": "45",
+              "amount": "38"
+            },
+            {
+              "minute": "46",
+              "amount": "40"
+            },
+            {
+              "minute": "47",
+              "amount": "39"
+            },
+            {
+              "minute": "49",
+              "amount": "39"
+            },
+            {
+              "minute": "50",
+              "amount": "37"
+            },
+            {
+              "minute": "51",
+              "amount": "38"
+            },
+            {
+              "minute": "52",
+              "amount": "37"
+            },
+            {
+              "minute": "53",
+              "amount": "38"
+            },
+            {
+              "minute": "55",
+              "amount": "37"
+            },
+            {
+              "minute": "56",
+              "amount": "38"
+            },
+            {
+              "minute": "57",
+              "amount": "38"
+            },
+            {
+              "minute": "59",
+              "amount": "37"
+            },
+            {
+              "minute": "60",
+              "amount": "38"
+            },
+            {
+              "minute": "62",
+              "amount": "39"
+            },
+            {
+              "minute": "64",
+              "amount": "40"
+            },
+            {
+              "minute": "65",
+              "amount": "39"
+            },
+            {
+              "minute": "71",
+              "amount": "40"
+            },
+            {
+              "minute": "74",
+              "amount": "39"
+            },
+            {
+              "minute": "75",
+              "amount": "39"
+            },
+            {
+              "minute": "80",
+              "amount": "40"
+            },
+            {
+              "minute": "83",
+              "amount": "40"
+            },
+            {
+              "minute": "90",
+              "amount": "40"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 14:08:05.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547897,
+          "fixture_id": 18358440,
+          "team_id": 232744,
+          "type": "attacks",
+          "analyses": [
+            {
+              "minute": "22",
+              "amount": "1"
+            },
+            {
+              "minute": "25",
+              "amount": "2"
+            },
+            {
+              "minute": "26",
+              "amount": "3"
+            },
+            {
+              "minute": "27",
+              "amount": "4"
+            },
+            {
+              "minute": "28",
+              "amount": "5"
+            },
+            {
+              "minute": "29",
+              "amount": "6"
+            },
+            {
+              "minute": "32",
+              "amount": "9"
+            },
+            {
+              "minute": "34",
+              "amount": "11"
+            },
+            {
+              "minute": "36",
+              "amount": "12"
+            },
+            {
+              "minute": "37",
+              "amount": "13"
+            },
+            {
+              "minute": "39",
+              "amount": "14"
+            },
+            {
+              "minute": "40",
+              "amount": "16"
+            },
+            {
+              "minute": "41",
+              "amount": "18"
+            },
+            {
+              "minute": "42",
+              "amount": "20"
+            },
+            {
+              "minute": "44",
+              "amount": "21"
+            },
+            {
+              "minute": "45",
+              "amount": "23"
+            },
+            {
+              "minute": "47",
+              "amount": "27"
+            },
+            {
+              "minute": "49",
+              "amount": "26"
+            },
+            {
+              "minute": "48",
+              "amount": "28"
+            },
+            {
+              "minute": "50",
+              "amount": "30"
+            },
+            {
+              "minute": "53",
+              "amount": "31"
+            },
+            {
+              "minute": "55",
+              "amount": "33"
+            },
+            {
+              "minute": "56",
+              "amount": "35"
+            },
+            {
+              "minute": "57",
+              "amount": "36"
+            },
+            {
+              "minute": "59",
+              "amount": "37"
+            },
+            {
+              "minute": "61",
+              "amount": "38"
+            },
+            {
+              "minute": "62",
+              "amount": "39"
+            },
+            {
+              "minute": "63",
+              "amount": "41"
+            },
+            {
+              "minute": "68",
+              "amount": "43"
+            },
+            {
+              "minute": "69",
+              "amount": "44"
+            },
+            {
+              "minute": "70",
+              "amount": "45"
+            },
+            {
+              "minute": "71",
+              "amount": "47"
+            },
+            {
+              "minute": "73",
+              "amount": "50"
+            },
+            {
+              "minute": "75",
+              "amount": "51"
+            },
+            {
+              "minute": "79",
+              "amount": "52"
+            },
+            {
+              "minute": "80",
+              "amount": "53"
+            },
+            {
+              "minute": "81",
+              "amount": "56"
+            },
+            {
+              "minute": "82",
+              "amount": "57"
+            },
+            {
+              "minute": "84",
+              "amount": "59"
+            },
+            {
+              "minute": "85",
+              "amount": "60"
+            },
+            {
+              "minute": "86",
+              "amount": "61"
+            },
+            {
+              "minute": "87",
+              "amount": "62"
+            },
+            {
+              "minute": "89",
+              "amount": "65"
+            },
+            {
+              "minute": "90",
+              "amount": "66"
+            },
+            {
+              "minute": "91",
+              "amount": "67"
+            },
+            {
+              "minute": "92",
+              "amount": "68"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 14:10:03.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547912,
+          "fixture_id": 18358440,
+          "team_id": 232744,
+          "type": "dangerous_attacks",
+          "analyses": [
+            {
+              "minute": "26",
+              "amount": "1"
+            },
+            {
+              "minute": "27",
+              "amount": "2"
+            },
+            {
+              "minute": "29",
+              "amount": "3"
+            },
+            {
+              "minute": "31",
+              "amount": "4"
+            },
+            {
+              "minute": "32",
+              "amount": "5"
+            },
+            {
+              "minute": "33",
+              "amount": "7"
+            },
+            {
+              "minute": "34",
+              "amount": "8"
+            },
+            {
+              "minute": "35",
+              "amount": "9"
+            },
+            {
+              "minute": "37",
+              "amount": "10"
+            },
+            {
+              "minute": "39",
+              "amount": "11"
+            },
+            {
+              "minute": "41",
+              "amount": "12"
+            },
+            {
+              "minute": "44",
+              "amount": "13"
+            },
+            {
+              "minute": "45",
+              "amount": "14"
+            },
+            {
+              "minute": "49",
+              "amount": "16"
+            },
+            {
+              "minute": "50",
+              "amount": "17"
+            },
+            {
+              "minute": "48",
+              "amount": "18"
+            },
+            {
+              "minute": "51",
+              "amount": "19"
+            },
+            {
+              "minute": "56",
+              "amount": "20"
+            },
+            {
+              "minute": "57",
+              "amount": "21"
+            },
+            {
+              "minute": "58",
+              "amount": "22"
+            },
+            {
+              "minute": "62",
+              "amount": "24"
+            },
+            {
+              "minute": "63",
+              "amount": "25"
+            },
+            {
+              "minute": "64",
+              "amount": "26"
+            },
+            {
+              "minute": "68",
+              "amount": "27"
+            },
+            {
+              "minute": "71",
+              "amount": "28"
+            },
+            {
+              "minute": "73",
+              "amount": "29"
+            },
+            {
+              "minute": "80",
+              "amount": "31"
+            },
+            {
+              "minute": "81",
+              "amount": "33"
+            },
+            {
+              "minute": "82",
+              "amount": "34"
+            },
+            {
+              "minute": "83",
+              "amount": "35"
+            },
+            {
+              "minute": "84",
+              "amount": "36"
+            },
+            {
+              "minute": "89",
+              "amount": "37"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 14:08:05.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547982,
+          "fixture_id": 18358440,
+          "team_id": 232744,
+          "type": "off_target",
+          "analyses": [
+            {
+              "minute": "58",
+              "amount": "1"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 13:37:02.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547844,
+          "fixture_id": 18358440,
+          "team_id": 232744,
+          "type": "on_target",
+          "analyses": [
+            {
+              "minute": "7",
+              "amount": "1"
+            },
+            {
+              "minute": "35",
+              "amount": "2"
+            },
+            {
+              "minute": "68",
+              "amount": "3"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 13:47:05.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547823,
+          "fixture_id": 18358440,
+          "team_id": 232744,
+          "type": "corners",
+          "analyses": [
+            {
+              "minute": "0",
+              "amount": "0"
+            },
+            {
+              "minute": "33",
+              "amount": "1"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 12:50:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547827,
+          "fixture_id": 18358440,
+          "team_id": 232744,
+          "type": "goals",
+          "analyses": [
+            {
+              "minute": "0",
+              "amount": "0"
+            },
+            {
+              "minute": "7",
+              "amount": "1"
+            },
+            {
+              "minute": "35",
+              "amount": "2"
+            },
+            {
+              "minute": "68",
+              "amount": "3"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 13:47:05.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547988,
+          "fixture_id": 18358440,
+          "team_id": 232744,
+          "type": "yellowcards",
+          "analyses": [
+            {
+              "minute": "67",
+              "amount": "1"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 13:46:04.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "id": 9547825,
+          "fixture_id": 18358440,
+          "team_id": 232744,
+          "type": "redcards",
+          "analyses": [
+            {
+              "minute": "0",
+              "amount": "0"
+            }
+          ],
+          "updated_at": {
+            "date": "2021-11-29 12:16:05.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        }
+      ]
+    }
+  },
+  "meta": {
+    "subscription": {
+      "started_at": {
+        "date": "2021-03-28 14:16:47.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "trial_ends_at": {
+        "date": "2021-04-11 15:15:39.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "ends_at": {
+        "date": "2021-12-11 15:15:39.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      }
+    },
+    "plans": [
+      {
+        "name": "Daniel Presidential ideas custom football plan",
+        "features": "Custom",
+        "price_monthly": 358,
+        "price_yearly": 3828,
+        "request_limit": "2000,60",
+        "sport": "Soccer"
+      }
+    ],
+    "add-ons": [],
+    "sports": [
+      {
+        "id": 1,
+        "name": "Soccer",
+        "current": true
+      }
+    ]
+  }
+}
+

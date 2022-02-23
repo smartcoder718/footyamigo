@@ -1,0 +1,289 @@
+{
+    "cards": [
+        {
+            "id": 5,
+            "smid": 29,
+            "name": "Asian Handicap Cards"
+        },
+        {
+            "id": 6,
+            "smid": 30,
+            "name": "Asian Total Cards"
+        },
+        {
+            "id": 7,
+            "smid": 31,
+            "name": "First Card Received"
+        },
+        {
+            "id": 8,
+            "smid": 32,
+            "name": "Time Of First Card"
+        },
+        {
+            "id": 9,
+            "smid": 33,
+            "name": "Team Cards"
+        },
+        {
+            "id": 176,
+            "smid": 136704329,
+            "name": "Number of Cards"
+        },
+        {
+            "id": 198,
+            "smid": 136706545,
+            "name": "Player to be Booked"
+        },
+        {
+            "id": 199,
+            "smid": 136706546,
+            "name": "Player to be Sent Off"
+        },
+        {
+            "id": 242,
+            "smid": 1256989869,
+            "name": "Ten Minute Cards"
+        },
+        {
+            "id": 264,
+            "smid": 1265634166,
+            "name": "Card Handicap"
+        },
+        {
+            "id": 265,
+            "smid": 1265634167,
+            "name": "Alternative Card Handicap"
+        },
+        {
+            "id": 300,
+            "smid": 1265634215,
+            "name": "A Red Card in the Match"
+        }
+    ],
+    "corners": [
+        {
+            "id": 10,
+            "smid": 34,
+            "name": "Corner Match Bet"
+        },
+        {
+            "id": 11,
+            "smid": 35,
+            "name": "Corner Handicap"
+        },
+        {
+            "id": 12,
+            "smid": 36,
+            "name": "Time Of First Corner"
+        },
+        {
+            "id": 15,
+            "smid": 39,
+            "name": "Team Corners"
+        },
+        {
+            "id": 80,
+            "smid": 976384,
+            "name": "Corners Over Under"
+        },
+        {
+            "id": 82,
+            "smid": 977179,
+            "name": "Corners 1x2"
+        },
+        {
+            "id": 98,
+            "smid": 136703818,
+            "name": "Total Corners"
+        },
+        {
+            "id": 101,
+            "smid": 136703821,
+            "name": "2-Way Corners"
+        },
+        {
+            "id": 103,
+            "smid": 136703823,
+            "name": "1st Half Corners"
+        },
+        {
+            "id": 105,
+            "smid": 136703825,
+            "name": "Alternative Total Corners"
+        },
+        {
+            "id": 116,
+            "smid": 136703846,
+            "name": "Asian Corners"
+        },
+        {
+            "id": 117,
+            "smid": 136703850,
+            "name": "Corners Race"
+        },
+        {
+            "id": 118,
+            "smid": 136703852,
+            "name": "Race to 5 Corners"
+        },
+        {
+            "id": 119,
+            "smid": 136703854,
+            "name": "Race to 7 Corners"
+        },
+        {
+            "id": 120,
+            "smid": 136703856,
+            "name": "Race to 9 Corners"
+        },
+        {
+            "id": 121,
+            "smid": 136703858,
+            "name": "3rd Corner"
+        },
+        {
+            "id": 160,
+            "smid": 136704091,
+            "name": "Corner Handicap"
+        },
+        {
+            "id": 161,
+            "smid": 136704092,
+            "name": "Most Corners"
+        },
+        {
+            "id": 209,
+            "smid": 136830892,
+            "name": "Corners Asian Handicap"
+        },
+        {
+            "id": 210,
+            "smid": 136830894,
+            "name": "Home Corners Over/Under"
+        },
+        {
+            "id": 211,
+            "smid": 136830897,
+            "name": "Away Corners Over/Under"
+        },
+        {
+            "id": 217,
+            "smid": 137918021,
+            "name": "1st Half Asian Corners"
+        },
+        {
+            "id": 296,
+            "smid": 1265634210,
+            "name": "Asian Total Corners"
+        },
+        {
+            "id": 297,
+            "smid": 1265634211,
+            "name": "Corners 2-Way"
+        },
+        {
+            "id": 1040,
+            "smid": 1265635604,
+            "name": "Match Corners"
+        },
+        {
+            "id": 1041,
+            "smid": 1265635605,
+            "name": "Corners"
+        }
+    ],
+    "specials": [
+        {
+            "id": 181,
+            "smid": 136704525,
+            "name": "Player Shots on Target"
+        },
+        {
+            "id": 184,
+            "smid": 136704529,
+            "name": "Match Shots on Target"
+        },
+        {
+            "id": 185,
+            "smid": 136704532,
+            "name": "Team Shots on Target"
+        },
+        {
+            "id": 188,
+            "smid": 136704546,
+            "name": "Match Offsides"
+        },
+        {
+            "id": 189,
+            "smid": 136704549,
+            "name": "Team Offsides"
+        },
+        {
+            "id": 208,
+            "smid": 136830811,
+            "name": "Own Goal"
+        },
+        {
+            "id": 266,
+            "smid": 1265634170,
+            "name": "Team Performances"
+        },
+        {
+            "id": 292,
+            "smid": 1265634204,
+            "name": "To Score In Half"
+        },
+        {
+            "id": 298,
+            "smid": 1265634212,
+            "name": "Player Tackles"
+        },
+        {
+            "id": 299,
+            "smid": 1265634214,
+            "name": "Match Tackles"
+        },
+        {
+            "id": 301,
+            "smid": 1265634216,
+            "name": "A Penalty in the Match"
+        },
+        {
+            "id": 1117,
+            "smid": 1265635681,
+            "name": "Player Passes"
+        }
+    ],
+    "asian_handicap": [
+        {
+            "id": 4,
+            "smid": 28,
+            "name": "Asian Handicap"
+        },
+        {
+            "id": 56,
+            "smid": 975925,
+            "name": "Asian Handicap First Half"
+        }
+    ],
+    "existing": [
+        1,
+        12,
+        28,
+        37,
+        63,
+        69,
+        975909,
+        975916,
+        975925,
+        975926,
+        975930,
+        975932,
+        136703842,
+        136830707,
+        137918013,
+        137918016,
+        137918020
+    ]
+}

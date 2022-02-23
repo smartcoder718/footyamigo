@@ -1,0 +1,130 @@
+<template>
+  
+    <div class="bg-lightpink">
+      <h6 class="alert-name">Alert Name</h6>
+      <div>
+        <b-input placeholder="New Alert 2 " class="alert-input"> </b-input>
+      </div>
+      <h6 class="alert-title">
+        What type of Pre-Match Alert do You Want to Create?
+      </h6>
+      <b-form-group v-slot="{ ariaDescribedby }">
+        <b-row>
+          <b-col md="4" sm="6" col="12" v-for="type in types" :key="type.value">
+            <div
+              class="type-box"
+              no-body
+              @click="form.type = type.value"
+              :class="form.type == type.value ? 'selected' : ''"
+            >
+              <div>
+                <b-img :src="`/vectors/${type.value}.svg`" class="type-vector">
+                </b-img>
+                <b-form-radio
+                  class="type-radio"
+                  v-model="form.type"
+                  :aria-describedby="ariaDescribedby"
+                  name="alert-type"
+                  :value="type.value"
+                ></b-form-radio>
+                <h6>{{ type.text }}</h6>
+              </div>
+            </div>
+          </b-col>
+        </b-row>
+      </b-form-group>
+
+      <div>
+        <b-button variant="primary" class="footy-button" block @click="$emit('nextstep')">
+          Next Step <span class="material-icons ml-4"> east </span>
+        </b-button>
+      </div>
+    </div>
+ 
+</template>
+
+<script>
+export default {
+  props: {
+    form: Object
+  },
+  data() {
+    return {
+      types: [
+        { value: "general", text: "General" },
+        { value: "goals", text: "Goals" },
+        { value: "half", text: "Half" },
+        { value: "corners", text: "Corners" },
+        { value: "cards", text: "Cards" },
+        { value: "odds", text: "Odds" },
+      ],
+    };
+  },
+  
+};
+</script>
+
+<style scoped>
+
+.alert-name {
+  margin-bottom: 20px;
+  font-style: normal;
+  font-weight: bold !important; //COLFAX
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+
+  
+}
+.alert-title {
+  margin-bottom: 20px;
+
+  font-weight: bold !important; //COLFAX
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.alert-input {
+  border-radius: 8px;
+  height: 54px;
+  margin-bottom: 30px;
+  border: 1px solid #cfd8cf;
+}
+.type-box {
+  padding-top: 22px !important;
+  padding-bottom: 22px !important;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 30px;
+  border-radius: 12px;
+  background: white;
+  border: 2px solid #cfd8cf;
+}
+
+.type-box.selected {
+  border: 2px solid #60b15a;
+  color: #60b15a;
+}
+
+.type-vector {
+  width: 76px;
+  margin-bottom: 20px;
+}
+
+.type-radio {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+</style>

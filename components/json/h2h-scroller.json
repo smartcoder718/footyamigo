@@ -1,0 +1,54 @@
+[
+  {
+    "title": "+1.5 Goals (Last 5)",
+    "col": "last_5.o15_goals_h2h_per"
+  },
+  {
+    "title": "+2.5 Goals (Last 5)",
+    "col": "last_5.o25_goals_h2h_per"
+  },
+  {
+    "title": "+3.5 Goals (Last 5)",
+    "col": "last_5.o35_goals_h2h_per"
+  },
+  {
+    "title": "+0.5 1H Goals (Last 5)",
+    "col": "last_5.o05_goals_1h_h2h_per"
+  },
+  {
+    "title": "+1.5 1H Goals (Last 5)",
+    "col": "last_5.o15_goals_1h_h2h_per"
+  },
+  {
+    "title": "+0.5 2H Goals (Last 5)",
+    "col": "last_5.o05_goals_2h_h2h_per"
+  },
+  {
+    "title": "+1.5 2H Goals (Last 5)",
+    "col": "last_5.o15_goals_2h_h2h_per"
+  },
+  {
+    "title": "BTTS (Last 5)",
+    "col": "last_5.btts_h2h_per"
+  },
+  {
+    "title": "+8.5 corners (Last 5)",
+    "col": "last_5.o85_corners_h2h_per"
+  },
+  {
+    "title": "+9.5 corners (Last 5)",
+    "col": "last_5.o95_corners_h2h_per"
+  },
+  {
+    "title": "+10.5 corners (Last 5)",
+    "col": "last_5.o105_corners_h2h_per"
+  },
+  {
+    "title": "+3.5 cards",
+    "col": "o35_cards_h2h_per"
+  },
+  {
+    "title": "+4.5 cards",
+    "col": "o45_cards_h2h_per"
+  }
+]

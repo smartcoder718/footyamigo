@@ -1,0 +1,50 @@
+[
+  {
+    "col": "home_win_probability",
+    "title": "Home Win"
+  },
+  {
+    "col": "draw_probability",
+    "title": "Draw"
+  },
+  {
+    "col": "away_win_probability",
+    "title": "Away Win"
+  },
+  {
+    "col": "btts_probability",
+    "title": "BTTS"
+  },
+  {
+    "col": "o25_goals_probability",
+    "title": "+2.5 Goals"
+  },
+  {
+    "col": "u25_goals_probability",
+    "title": "-2.5 Goals"
+  },
+  {
+    "col": "o35_goals_probability",
+    "title": "+3.5 Goals"
+  },
+  {
+    "col": "u35_goals_probability",
+    "title": "-3.5 Goals"
+  },
+  {
+    "col": "o05_home_goals_probability",
+    "title": "+0.5 Home Goals"
+  },
+  {
+    "col": "o15_home_goals_probability",
+    "title": "+1.5 Home Goals"
+  },
+  {
+    "col": "o05_away_goals_probability",
+    "title": "+0.5 Away Goals"
+  },
+  {
+    "col": "o15_away_goals_probability",
+    "title": "+1.5 Away Goals"
+  }
+]

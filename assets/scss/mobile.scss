@@ -1,0 +1,79 @@
+@media screen and (max-width: $lg) {
+  .footy-page-header {
+    margin-top: 12px;
+    //padding-bottom: 12px;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    .footy-page-header-info {
+      display: flex;
+      flex-direction: column;
+      row-gap: 16px;
+      .footy-page-title-wrapper {
+      }
+      .footy-page-description {
+        font-size: 14px;
+        line-height: 18px;
+      }
+    }
+    .footy-page-title {
+      font-size: 24px;
+      line-height: 36px;
+    }
+  }
+
+  .footy-page-container {
+    padding: 20px 16px;
+    background: $light;
+   
+  }
+
+  .wrap-on-mobile {
+    flex-direction: column;
+    row-gap: 8px;
+    width: 100%;
+  }
+
+  .scroll-on-mobile {
+    display: flex;
+    overflow-x: auto;
+    flex-shrink: 0;
+    // flex-grow: 0;
+    white-space: nowrap;
+  }
+
+  // .scroll-on-mobile {
+  //   flex-direction: row;
+  //   display: flex;
+  //   overflow-x: auto;
+  //   flex-wrap: nowrap;
+  // }
+  h1.responsive-h1 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  h3.responsive-h3 {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .block-on-mobile {
+    width: 100%;
+  }
+  .avatar {
+    background: #eef5ed;
+    width: 52px;
+    height: 52px;
+    padding: 11px;
+    img {
+      width: 26px;
+      height: 100%;
+    }
+  }
+  .w-100-mobile {
+    width: 100%;
+  }
+  .league-name-inner-strategy {
+    align-items: flex-start;
+  }
+}

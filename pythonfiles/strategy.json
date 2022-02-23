@@ -1,0 +1,97 @@
+{
+  "id": 39,
+  "title": "Over 1.5 (no goal yet) ",
+  "type": "in-play",
+  "outcomes": [
+    {
+      "code": "o15_goals",
+      "label": "Over 1.5 Total Goals",
+      "id": 2,
+      "outcome_id": 80561,
+      "strategy_id": 39
+    }
+  ],
+  "is_public": 1,
+  "timer": {
+    "to": 70,
+    "from": 0,
+    "time": "atMinuteX",
+    "minute": 30
+  },
+  "hit_rate": "0.00",
+  "fixtures_found": 0,
+  "last_checked": null,
+  "trusted": 0,
+  "active": 1,
+  "note": "Place over 1.5 goals bet ",
+  "user_id": 21,
+  "created_at": "2021-10-07T12:03:14.000Z",
+  "updated_at": "2021-10-09T16:49:43.000Z",
+  "strategy_prematch_rules": [
+    {
+      "code": "played",
+      "category": "general",
+      "overall": "played_overall",
+      "home": "played_home",
+      "label": "Matches Played",
+      "away": "played_away",
+      "id": 25,
+      "strategy_id": 39,
+      "uid": "played_general",
+      "location": "overall",
+      "team": "both",
+      "comparator": "=",
+      "value": "1.00",
+      "values": [8, 60]
+    },
+    {
+      "code": "o15_goals_per",
+      "category": "goals",
+      "overall": "o15_goals_overall_per",
+      "home": "o15_goals_home_per",
+      "label": "+1.5 Goals %",
+      "away": "o15_goals_away_per",
+      "id": 26,
+      "strategy_id": 39,
+      "uid": "o15_goals_per_goals",
+      "location": "overall",
+      "team": "both",
+      "comparator": "=",
+      "value": "1.00",
+      "values": [70, 100]
+    },
+    {
+      "code": "no_goals_1h_per",
+      "category": "half",
+      "overall": "no_goals_1h_overall_per",
+      "home": "no_goals_1h_home_per",
+      "label": "0-0 (1H) %",
+      "away": "no_goals_1h_away_per",
+      "id": 27,
+      "strategy_id": 39,
+      "uid": "no_goals_1h_per_half",
+      "location": "overall",
+      "team": "both",
+      "comparator": "=",
+      "value": "1.00",
+      "values": [0, 20]
+    },
+    {
+      "code": "o15_goals",
+      "category": "odds",
+      "overall": null,
+      "home": null,
+      "label": "Match Goals Over 1.5",
+      "away": null,
+      "id": 28,
+      "strategy_id": 39,
+      "uid": "o15_goals_odds",
+      "location": "overall",
+      "team": "both",
+      "comparator": ">=",
+      "value": "1.70",
+      "values": [0, 100]
+    }
+  ],
+  "strategy_inplay_rules": []
+}

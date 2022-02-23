@@ -1,0 +1,3253 @@
+{
+  "data": {
+    "id": 17958830,
+    "league_id": 648,
+    "season_id": 18215,
+    "stage_id": 77452836,
+    "round_id": 241297,
+    "group_id": null,
+    "aggregate_id": null,
+    "venue_id": 290225,
+    "referee_id": 29044,
+    "localteam_id": 8331,
+    "visitorteam_id": 692,
+    "winner_team_id": null,
+    "weather_report": {
+      "code": "clouds",
+      "type": "overcast clouds",
+      "icon": "https://cdn.sportmonks.com/images/weather/04n.png",
+      "temperature": {
+        "temp": 78.49,
+        "unit": "fahrenheit"
+      },
+      "temperature_celcius": {
+        "temp": 25.8,
+        "unit": "celcius"
+      },
+      "clouds": "90%",
+      "humidity": "69%",
+      "pressure": 1011,
+      "wind": {
+        "speed": "11.5 m/s",
+        "degree": 330
+      },
+      "coordinates": {
+        "lat": -16.6786,
+        "lon": -49.2539
+      },
+      "updated_at": "2021-11-29T23:00:16.610135Z"
+    },
+    "commentaries": true,
+    "attendance": null,
+    "pitch": null,
+    "details": null,
+    "neutral_venue": false,
+    "winning_odds_calculated": false,
+    "formations": {
+      "localteam_formation": "4-2-3-1",
+      "visitorteam_formation": "4-2-3-1"
+    },
+    "scores": {
+      "localteam_score": 0,
+      "visitorteam_score": 0,
+      "localteam_pen_score": null,
+      "visitorteam_pen_score": null,
+      "ht_score": "0-0",
+      "ft_score": null,
+      "et_score": null,
+      "ps_score": null
+    },
+    "time": {
+      "status": "LIVE",
+      "starting_at": {
+        "date_time": "2021-11-29 22:00:00",
+        "date": "2021-11-29",
+        "time": "22:00:00",
+        "timestamp": 1638223200,
+        "timezone": "UTC"
+      },
+      "minute": 55,
+      "second": "20",
+      "added_time": null,
+      "extra_minute": null,
+      "injury_time": null
+    },
+    "coaches": {
+      "localteam_coach_id": 466383,
+      "visitorteam_coach_id": 456033
+    },
+    "standings": {
+      "localteam_position": 15,
+      "visitorteam_position": 16
+    },
+    "assistants": {
+      "first_assistant_id": 12194,
+      "second_assistant_id": 13450,
+      "fourth_official_id": 30596
+    },
+    "leg": "1/1",
+    "colors": {
+      "localteam": {
+        "color": "#0A0A0A",
+        "kit_colors": "#0A0A0A,#C40010,#0A0A0A,#F0F0F0,#C40010,#0046A8,#0A0A0A"
+      },
+      "visitorteam": {
+        "color": "#F0F0F0",
+        "kit_colors": "#F0F0F0,#F0F0F0,#F0F0F0,#F0F0F0,#C40010,#0046A8,#F0F0F0"
+      }
+    },
+    "deleted": false,
+    "is_placeholder": false,
+    "inplayOdds": {
+      "data": [
+        {
+          "bookmaker_id": 2,
+          "market_id": 1,
+          "values": [
+            {
+              "order": "0",
+              "info": "Atletico Goianiense",
+              "team": "Home",
+              "bm_fixture_id": "111284503",
+              "value": "3.00",
+              "fractional": "2/1",
+              "american": 200,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Draw",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "2.00",
+              "fractional": "1/1",
+              "american": 100,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Bahia",
+              "team": "Away",
+              "bm_fixture_id": "111284503",
+              "value": "4.33",
+              "fractional": "10/3",
+              "american": 333,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:13.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 63,
+          "values": [
+            {
+              "order": "0",
+              "info": "Atletico Goianiense or Draw",
+              "team": "Home",
+              "bm_fixture_id": "111284503",
+              "value": "1.20",
+              "fractional": "1/5",
+              "american": -501,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Bahia or Draw",
+              "team": "Away",
+              "bm_fixture_id": "111284503",
+              "value": "1.36",
+              "fractional": "4/11",
+              "american": -278,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Atletico Goianiense or Bahia",
+              "team": "Home",
+              "bm_fixture_id": "111284503",
+              "value": "1.73",
+              "fractional": "8/11",
+              "american": -137,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:13.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 13343,
+          "values": [
+            {
+              "order": "0",
+              "info": "Atletico Goianiense | Yes",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "1.40",
+              "fractional": "2/5",
+              "american": -251,
+              "handicap": "",
+              "description": "Team Clean Sheet - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Atletico Goianiense | No",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "2.75",
+              "fractional": "7/4",
+              "american": 175,
+              "handicap": "",
+              "description": "Team Clean Sheet - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Bahia | Yes",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "1.62",
+              "fractional": "8/13",
+              "american": -162,
+              "handicap": "",
+              "description": "Team Clean Sheet - Bahia",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Bahia | No",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "2.20",
+              "fractional": "6/5",
+              "american": 120,
+              "handicap": "",
+              "description": "Team Clean Sheet - Bahia",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 28077,
+          "values": [
+            {
+              "order": "0",
+              "info": "Over - 0.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.53",
+              "fractional": "8/15",
+              "american": -189,
+              "handicap": "0.5",
+              "description": "Match Goals - Over",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Under - 0.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "2.38",
+              "fractional": "11/8",
+              "american": 138,
+              "handicap": "0.5",
+              "description": "Match Goals - Under",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:47.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 28080,
+          "values": [
+            {
+              "order": "0",
+              "info": "Atletico Goianiense |  +2",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "1.03",
+              "fractional": "1/40",
+              "american": -3334,
+              "handicap": "+2",
+              "description": "3-Way Handicap - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Atletico Goianiense |  +1",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "1.20",
+              "fractional": "1/5",
+              "american": -501,
+              "handicap": "+1",
+              "description": "3-Way Handicap - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Atletico Goianiense |  -1",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "10.00",
+              "fractional": "9/1",
+              "american": 900,
+              "handicap": "-1",
+              "description": "3-Way Handicap - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "Atletico Goianiense |  -2",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "41.00",
+              "fractional": "40/1",
+              "american": 4000,
+              "handicap": "-2",
+              "description": "3-Way Handicap - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Draw |  -2",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "19.00",
+              "fractional": "18/1",
+              "american": 1800,
+              "handicap": "-2",
+              "description": "3-Way Handicap - Draw",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Draw |  -1",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "4.75",
+              "fractional": "15/4",
+              "american": 375,
+              "handicap": "-1",
+              "description": "3-Way Handicap - Draw",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Draw |  +1",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "3.60",
+              "fractional": "13/5",
+              "american": 260,
+              "handicap": "+1",
+              "description": "3-Way Handicap - Draw",
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "Draw |  +2",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "12.00",
+              "fractional": "11/1",
+              "american": 1100,
+              "handicap": "+2",
+              "description": "3-Way Handicap - Draw",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Bahia |  -2",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "51.00",
+              "fractional": "50/1",
+              "american": 5000,
+              "handicap": "-2",
+              "description": "3-Way Handicap - Bahia",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Bahia |  -1",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "17.00",
+              "fractional": "16/1",
+              "american": 1600,
+              "handicap": "-1",
+              "description": "3-Way Handicap - Bahia",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Bahia |  +1",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "1.36",
+              "fractional": "4/11",
+              "american": -278,
+              "handicap": "+1",
+              "description": "3-Way Handicap - Bahia",
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "Bahia |  +2",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "1.05",
+              "fractional": "1/22",
+              "american": -2000,
+              "handicap": "+2",
+              "description": "3-Way Handicap - Bahia",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 28085,
+          "values": [
+            {
+              "order": "0",
+              "info": "Odd",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "2.20",
+              "fractional": "6/5",
+              "american": 120,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Even",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "1.62",
+              "fractional": "8/13",
+              "american": -162,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 28086,
+          "values": [
+            {
+              "order": "0",
+              "info": "Over - 1.5",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "13.00",
+              "fractional": "12/1",
+              "american": 1200,
+              "handicap": "1.5",
+              "description": "Bahia Goals - Over",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Under - 1.5",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "1.04",
+              "fractional": "1/25",
+              "american": -2500,
+              "handicap": "1.5",
+              "description": "Bahia Goals - Under",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 28088,
+          "values": [
+            {
+              "order": "0",
+              "info": "Over - 1.5",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "8.00",
+              "fractional": "7/1",
+              "american": 700,
+              "handicap": "1.5",
+              "description": "Atletico Goianiense Goals - Over",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Under - 1.5",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "1.08",
+              "fractional": "1/12",
+              "american": -1250,
+              "handicap": "1.5",
+              "description": "Atletico Goianiense Goals - Under",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:13:20.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 28089,
+          "values": [
+            {
+              "order": "0",
+              "info": "1-0",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "4.00",
+              "fractional": "3/1",
+              "american": 300,
+              "handicap": null,
+              "description": "1",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "2-0",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "12.00",
+              "fractional": "11/1",
+              "american": 1100,
+              "handicap": null,
+              "description": "1",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "2-1",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "26.00",
+              "fractional": "25/1",
+              "american": 2500,
+              "handicap": null,
+              "description": "1",
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "3-0",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "41.00",
+              "fractional": "40/1",
+              "american": 4000,
+              "handicap": null,
+              "description": "1",
+              "suspend": false
+            },
+            {
+              "order": "4",
+              "info": "3-1",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "67.00",
+              "fractional": "66/1",
+              "american": 6600,
+              "handicap": null,
+              "description": "1",
+              "suspend": false
+            },
+            {
+              "order": "5",
+              "info": "3-2",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "201.00",
+              "fractional": "200/1",
+              "american": 20000,
+              "handicap": null,
+              "description": "1",
+              "suspend": false
+            },
+            {
+              "order": "6",
+              "info": "4-0",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "151.00",
+              "fractional": "150/1",
+              "american": 15000,
+              "handicap": null,
+              "description": "1",
+              "suspend": false
+            },
+            {
+              "order": "7",
+              "info": "4-1",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "301.00",
+              "fractional": "300/1",
+              "american": 30000,
+              "handicap": null,
+              "description": "1",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "0-0",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "2.38",
+              "fractional": "11/8",
+              "american": 138,
+              "handicap": null,
+              "description": "X",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "1-1",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "8.50",
+              "fractional": "15/2",
+              "american": 750,
+              "handicap": null,
+              "description": "X",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "2-2",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "67.00",
+              "fractional": "66/1",
+              "american": 6600,
+              "handicap": null,
+              "description": "X",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "1-0",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "5.00",
+              "fractional": "4/1",
+              "american": 400,
+              "handicap": null,
+              "description": "2",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "2-0",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "21.00",
+              "fractional": "20/1",
+              "american": 2000,
+              "handicap": null,
+              "description": "2",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "2-1",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "29.00",
+              "fractional": "28/1",
+              "american": 2800,
+              "handicap": null,
+              "description": "2",
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "3-0",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "67.00",
+              "fractional": "66/1",
+              "american": 6600,
+              "handicap": null,
+              "description": "2",
+              "suspend": false
+            },
+            {
+              "order": "4",
+              "info": "3-1",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "101.00",
+              "fractional": "100/1",
+              "american": 10000,
+              "handicap": null,
+              "description": "2",
+              "suspend": false
+            },
+            {
+              "order": "5",
+              "info": "3-2",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "251.00",
+              "fractional": "250/1",
+              "american": 25000,
+              "handicap": null,
+              "description": "2",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:47.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 28098,
+          "values": [
+            {
+              "order": "0",
+              "info": "Atletico Goianiense | Yes",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "2.20",
+              "fractional": "6/5",
+              "american": 120,
+              "handicap": "",
+              "description": "Team to Score in 2nd Half - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Atletico Goianiense | No",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "1.62",
+              "fractional": "8/13",
+              "american": -162,
+              "handicap": "",
+              "description": "Team to Score in 2nd Half - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Bahia | Yes",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "2.75",
+              "fractional": "7/4",
+              "american": 175,
+              "handicap": "",
+              "description": "Team to Score in 2nd Half - Bahia",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Bahia | No",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "1.40",
+              "fractional": "2/5",
+              "american": -251,
+              "handicap": "",
+              "description": "Team to Score in 2nd Half - Bahia",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 28099,
+          "values": [
+            {
+              "order": "0",
+              "info": "Yes",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "6.00",
+              "fractional": "5/1",
+              "american": 500,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "No",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "1.13",
+              "fractional": "1/8",
+              "american": -770,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:13:20.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 28100,
+          "values": [
+            {
+              "order": "0",
+              "info": "0 Goals",
+              "team": "Away",
+              "bm_fixture_id": "111284503",
+              "value": "1.40",
+              "fractional": "2/5",
+              "american": -251,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "1 Goal",
+              "team": "Away",
+              "bm_fixture_id": "111284503",
+              "value": "3.00",
+              "fractional": "2/1",
+              "american": 200,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "2 Goals",
+              "team": "Away",
+              "bm_fixture_id": "111284503",
+              "value": "13.00",
+              "fractional": "12/1",
+              "american": 1200,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "3+ Goals",
+              "team": "Away",
+              "bm_fixture_id": "111284503",
+              "value": "51.00",
+              "fractional": "50/1",
+              "american": 5000,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 28101,
+          "values": [
+            {
+              "order": "0",
+              "info": "0 Goals",
+              "team": "Home",
+              "bm_fixture_id": "111284503",
+              "value": "1.62",
+              "fractional": "8/13",
+              "american": -162,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "1 Goal",
+              "team": "Home",
+              "bm_fixture_id": "111284503",
+              "value": "2.75",
+              "fractional": "7/4",
+              "american": 175,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "2 Goals",
+              "team": "Home",
+              "bm_fixture_id": "111284503",
+              "value": "9.00",
+              "fractional": "8/1",
+              "american": 800,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "3+ Goals",
+              "team": "Home",
+              "bm_fixture_id": "111284503",
+              "value": "29.00",
+              "fractional": "28/1",
+              "american": 2800,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 28182,
+          "values": [
+            {
+              "order": "0",
+              "info": "Atletico Goianiense",
+              "team": "Home",
+              "bm_fixture_id": "111284503",
+              "value": "2.50",
+              "fractional": "6/4",
+              "american": 150,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "No Goals",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "2.38",
+              "fractional": "11/8",
+              "american": 138,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Bahia",
+              "team": "Away",
+              "bm_fixture_id": "111284503",
+              "value": "3.40",
+              "fractional": "12/5",
+              "american": 240,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 976105,
+          "values": [
+            {
+              "order": "0",
+              "info": "Yes",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "6.00",
+              "fractional": "5/1",
+              "american": 500,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "No",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "1.13",
+              "fractional": "1/8",
+              "american": -770,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:13.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 136696391,
+          "values": [
+            {
+              "order": "0",
+              "info": "Atletico Goianiense",
+              "team": "Home",
+              "bm_fixture_id": "111284503",
+              "value": "1.57",
+              "fractional": "4/7",
+              "american": -176,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Bahia",
+              "team": "Away",
+              "bm_fixture_id": "111284503",
+              "value": "2.25",
+              "fractional": "5/4",
+              "american": 125,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 136703813,
+          "values": [
+            {
+              "order": "0",
+              "info": "Over - 1.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "3.50",
+              "fractional": "5/2",
+              "american": 250,
+              "handicap": "1.5",
+              "description": "Alternative Match Goals - Over",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Over - 2.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "10.00",
+              "fractional": "9/1",
+              "american": 900,
+              "handicap": "2.5",
+              "description": "Alternative Match Goals - Over",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Over - 3.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "26.00",
+              "fractional": "25/1",
+              "american": 2500,
+              "handicap": "3.5",
+              "description": "Alternative Match Goals - Over",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Under - 1.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.29",
+              "fractional": "2/7",
+              "american": -345,
+              "handicap": "1.5",
+              "description": "Alternative Match Goals - Under",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Under - 2.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.06",
+              "fractional": "1/16",
+              "american": -1667,
+              "handicap": "2.5",
+              "description": "Alternative Match Goals - Under",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Under - 3.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.01",
+              "fractional": "1/100",
+              "american": -10000,
+              "handicap": "3.5",
+              "description": "Alternative Match Goals - Under",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:47.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 136703821,
+          "values": [
+            {
+              "order": "0",
+              "info": "Over - 9.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "2.00",
+              "fractional": "1/1",
+              "american": 100,
+              "handicap": "9.5",
+              "description": "2-Way Corners - Over",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Under - 9.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.73",
+              "fractional": "8/11",
+              "american": -137,
+              "handicap": "9.5",
+              "description": "2-Way Corners - Under",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:28.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 136703846,
+          "values": [
+            {
+              "order": "0",
+              "info": "Over - 9.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "2.08",
+              "fractional": "43/40",
+              "american": 108,
+              "handicap": "9.5",
+              "description": "Asian Corners - Over",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Under - 9.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.73",
+              "fractional": "29/40",
+              "american": -137,
+              "handicap": "9.5",
+              "description": "Asian Corners - Under",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:47.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 136703850,
+          "values": [
+            {
+              "order": "0",
+              "info": "Atletico Goianiense - 5",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "1.50",
+              "fractional": "1/2",
+              "american": -200,
+              "handicap": null,
+              "description": "Corners Race - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Atletico Goianiense - 7",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "3.25",
+              "fractional": "9/4",
+              "american": 225,
+              "handicap": null,
+              "description": "Corners Race - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Atletico Goianiense - 9",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "13.00",
+              "fractional": "12/1",
+              "american": 1200,
+              "handicap": null,
+              "description": "Corners Race - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Bahia - 5",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "5.00",
+              "fractional": "4/1",
+              "american": 400,
+              "handicap": null,
+              "description": "Corners Race - Bahia",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Bahia - 7",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "15.00",
+              "fractional": "14/1",
+              "american": 1400,
+              "handicap": null,
+              "description": "Corners Race - Bahia",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Bahia - 9",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "34.00",
+              "fractional": "33/1",
+              "american": 3300,
+              "handicap": null,
+              "description": "Corners Race - Bahia",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Neither - 5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "4.33",
+              "fractional": "10/3",
+              "american": 333,
+              "handicap": null,
+              "description": "Corners Race - Neither",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Neither - 7",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.33",
+              "fractional": "1/3",
+              "american": -304,
+              "handicap": null,
+              "description": "Corners Race - Neither",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Neither - 9",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.04",
+              "fractional": "1/25",
+              "american": -2500,
+              "handicap": null,
+              "description": "Corners Race - Neither",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:47.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 136703863,
+          "values": [
+            {
+              "order": "0",
+              "info": "Yes - Atletico Goianiense",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "23.00",
+              "fractional": "22/1",
+              "american": 2200,
+              "handicap": null,
+              "description": "Result / Both Teams To Score - Yes",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Yes - Bahia",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "34.00",
+              "fractional": "33/1",
+              "american": 3300,
+              "handicap": null,
+              "description": "Result / Both Teams To Score - Yes",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Yes - Draw",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "9.00",
+              "fractional": "8/1",
+              "american": 800,
+              "handicap": null,
+              "description": "Result / Both Teams To Score - Yes",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "No - Atletico Goianiense",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "3.25",
+              "fractional": "9/4",
+              "american": 225,
+              "handicap": null,
+              "description": "Result / Both Teams To Score - No",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "No - Bahia",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "4.50",
+              "fractional": "7/2",
+              "american": 350,
+              "handicap": null,
+              "description": "Result / Both Teams To Score - No",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "No - Draw",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "2.38",
+              "fractional": "11/8",
+              "american": 138,
+              "handicap": null,
+              "description": "Result / Both Teams To Score - No",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 136704079,
+          "values": [
+            {
+              "order": "0",
+              "info": "Atletico Goianiense - 60:00",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "12.00",
+              "fractional": "11/1",
+              "american": 1100,
+              "handicap": null,
+              "description": "Match Time Result - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Atletico Goianiense - 70:00",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "5.50",
+              "fractional": "9/2",
+              "american": 450,
+              "handicap": null,
+              "description": "Match Time Result - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Atletico Goianiense - 80:00",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "3.75",
+              "fractional": "11/4",
+              "american": 275,
+              "handicap": null,
+              "description": "Match Time Result - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Draw - 60:00",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.06",
+              "fractional": "1/18",
+              "american": -1667,
+              "handicap": null,
+              "description": "Match Time Result - Draw",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Draw - 70:00",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.29",
+              "fractional": "2/7",
+              "american": -345,
+              "handicap": null,
+              "description": "Match Time Result - Draw",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Draw - 80:00",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.53",
+              "fractional": "8/15",
+              "american": -189,
+              "handicap": null,
+              "description": "Match Time Result - Draw",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Bahia - 60:00",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "15.00",
+              "fractional": "14/1",
+              "american": 1400,
+              "handicap": null,
+              "description": "Match Time Result - Bahia",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Bahia - 70:00",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "7.00",
+              "fractional": "6/1",
+              "american": 600,
+              "handicap": null,
+              "description": "Match Time Result - Bahia",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Bahia - 80:00",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "5.00",
+              "fractional": "4/1",
+              "american": 400,
+              "handicap": null,
+              "description": "Match Time Result - Bahia",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 137918025,
+          "values": [
+            {
+              "order": "0",
+              "info": "Shot",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "2.20",
+              "fractional": "6/5",
+              "american": 120,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Header",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "8.50",
+              "fractional": "15/2",
+              "american": 750,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Penalty",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "10.00",
+              "fractional": "9/1",
+              "american": 900,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "Free Kick",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "26.00",
+              "fractional": "25/1",
+              "american": 2500,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "4",
+              "info": "Own Goal",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "34.00",
+              "fractional": "33/1",
+              "american": 3300,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "5",
+              "info": "No 1st Goal",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "2.38",
+              "fractional": "11/8",
+              "american": 138,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 1256989855,
+          "values": [
+            {
+              "order": "0",
+              "info": "Atletico Goianiense",
+              "team": "Home",
+              "bm_fixture_id": "111284503",
+              "value": "2.50",
+              "fractional": "6/4",
+              "american": 150,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "No 1st Goal",
+              "team": null,
+              "bm_fixture_id": "111284503",
+              "value": "2.38",
+              "fractional": "11/8",
+              "american": 138,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Bahia",
+              "team": "Away",
+              "bm_fixture_id": "111284503",
+              "value": "3.40",
+              "fractional": "12/5",
+              "american": 240,
+              "handicap": null,
+              "description": null,
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:47.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 1256989856,
+          "values": [
+            {
+              "order": "0",
+              "info": "Atletico Goianiense |  +0.5",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "1.23",
+              "fractional": "9/40",
+              "american": -435,
+              "handicap": "+0.5",
+              "description": "Asian Handicap (0-0) - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Atletico Goianiense |  0.0,+0.5",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "1.33",
+              "fractional": "13/40",
+              "american": -304,
+              "handicap": "+0.25",
+              "description": "Asian Handicap (0-0) - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Atletico Goianiense |  0.0",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "1.63",
+              "fractional": "5/8",
+              "american": -159,
+              "handicap": "0",
+              "description": "Asian Handicap (0-0) - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "Atletico Goianiense |  0.0,-0.5",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "2.30",
+              "fractional": "13/10",
+              "american": 129,
+              "handicap": "-0.25",
+              "description": "Asian Handicap (0-0) - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "4",
+              "info": "Atletico Goianiense |  -0.5",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "3.00",
+              "fractional": "2/1",
+              "american": 200,
+              "handicap": "-0.5",
+              "description": "Asian Handicap (0-0) - Atletico Goianiense",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Bahia |  -0.5",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "4.10",
+              "fractional": "31/10",
+              "american": 309,
+              "handicap": "-0.5",
+              "description": "Asian Handicap (0-0) - Bahia",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Bahia |  0.0,-0.5",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "3.30",
+              "fractional": "23/10",
+              "american": 229,
+              "handicap": "-0.25",
+              "description": "Asian Handicap (0-0) - Bahia",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Bahia |  0.0",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "2.35",
+              "fractional": "27/20",
+              "american": 135,
+              "handicap": "0",
+              "description": "Asian Handicap (0-0) - Bahia",
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "Bahia |  0.0,+0.5",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "1.60",
+              "fractional": "3/5",
+              "american": -167,
+              "handicap": "+0.25",
+              "description": "Asian Handicap (0-0) - Bahia",
+              "suspend": false
+            },
+            {
+              "order": "4",
+              "info": "Bahia |  +0.5",
+              "bm_fixture_id": "111284503",
+              "team": "Away",
+              "value": "1.38",
+              "fractional": "3/8",
+              "american": -264,
+              "handicap": "+0.5",
+              "description": "Asian Handicap (0-0) - Bahia",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:47.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 1256989867,
+          "values": [
+            {
+              "order": "0",
+              "info": "Goal Before - 60:00",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "7.50",
+              "fractional": "13/2",
+              "american": 650,
+              "handicap": null,
+              "description": "Time of 1st Goal - Goal Before",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Goal Before - 70:00",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "3.25",
+              "fractional": "9/4",
+              "american": 225,
+              "handicap": null,
+              "description": "Time of 1st Goal - Goal Before",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Goal Before - 80:00",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "2.10",
+              "fractional": "11/10",
+              "american": 110,
+              "handicap": null,
+              "description": "Time of 1st Goal - Goal Before",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "No Goal Before - 60:00",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.07",
+              "fractional": "1/14",
+              "american": -1429,
+              "handicap": null,
+              "description": "Time of 1st Goal - No Goal Before",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "No Goal Before - 70:00",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.33",
+              "fractional": "1/3",
+              "american": -304,
+              "handicap": null,
+              "description": "Time of 1st Goal - No Goal Before",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "No Goal Before - 80:00",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.67",
+              "fractional": "4/6",
+              "american": -150,
+              "handicap": null,
+              "description": "Time of 1st Goal - No Goal Before",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 1265634160,
+          "values": [
+            {
+              "order": "0",
+              "info": "1st - Hugo Rodallega",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "9.50",
+              "fractional": "17/2",
+              "american": 850,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "1st - Filho Ze Roberto",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "10.00",
+              "fractional": "9/1",
+              "american": 900,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "1st - Rai Rocha Soars",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "9.50",
+              "fractional": "17/2",
+              "american": 850,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "1st - Marinho Rodriguinho",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "10.00",
+              "fractional": "9/1",
+              "american": 900,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "4",
+              "info": "1st - Martins Ronald",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "11.00",
+              "fractional": "10/1",
+              "american": 1000,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "5",
+              "info": "1st - Lucas Mugni",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "17.00",
+              "fractional": "16/1",
+              "american": 1600,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "6",
+              "info": "1st - de Souza Janderson",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "19.00",
+              "fractional": "18/1",
+              "american": 1800,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "7",
+              "info": "1st - Rodrigues Marlon Freitas",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "21.00",
+              "fractional": "20/1",
+              "american": 2000,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "8",
+              "info": "1st - dos Santos Dudu",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "23.00",
+              "fractional": "22/1",
+              "american": 2200,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "9",
+              "info": "1st - Moraes Willian Maranhao",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "23.00",
+              "fractional": "22/1",
+              "american": 2200,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "10",
+              "info": "1st - Conceicao Rickson",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "23.00",
+              "fractional": "22/1",
+              "american": 2200,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "11",
+              "info": "1st - Luis Juninho Capixaba",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "29.00",
+              "fractional": "28/1",
+              "american": 2800,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "12",
+              "info": "1st - de Oliveira Patrick",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "29.00",
+              "fractional": "28/1",
+              "american": 2800,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "13",
+              "info": "1st - Pereira Pedrao",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "34.00",
+              "fractional": "33/1",
+              "american": 3300,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "14",
+              "info": "1st - da Silva Nino Paraiba",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "34.00",
+              "fractional": "33/1",
+              "american": 3300,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "15",
+              "info": "1st - Graminho Eder Ferreira",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "34.00",
+              "fractional": "33/1",
+              "american": 3300,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "16",
+              "info": "1st - Santos Matheus Bahia",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "34.00",
+              "fractional": "33/1",
+              "american": 3300,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "17",
+              "info": "1st - Santos Gustavo Henrique",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "34.00",
+              "fractional": "33/1",
+              "american": 3300,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "18",
+              "info": "1st - Santos Arthur Henrique",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "34.00",
+              "fractional": "33/1",
+              "american": 3300,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "19",
+              "info": "1st - German Conti",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "41.00",
+              "fractional": "40/1",
+              "american": 4000,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "20",
+              "info": "1st - No 1st Goal",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "2.38",
+              "fractional": "11/8",
+              "american": 138,
+              "handicap": "",
+              "description": "Goalscorers - 1st",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Anytime - Hugo Rodallega",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "6.50",
+              "fractional": "11/2",
+              "american": 550,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Anytime - Filho Ze Roberto",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "6.50",
+              "fractional": "11/2",
+              "american": 550,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Anytime - Rai Rocha Soars",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "6.50",
+              "fractional": "11/2",
+              "american": 550,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "Anytime - Marinho Rodriguinho",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "7.00",
+              "fractional": "6/1",
+              "american": 600,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "4",
+              "info": "Anytime - Martins Ronald",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "7.50",
+              "fractional": "13/2",
+              "american": 650,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "5",
+              "info": "Anytime - Lucas Mugni",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "11.00",
+              "fractional": "10/1",
+              "american": 1000,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "6",
+              "info": "Anytime - de Souza Janderson",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "12.00",
+              "fractional": "11/1",
+              "american": 1100,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "7",
+              "info": "Anytime - Rodrigues Marlon Freitas",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "13.00",
+              "fractional": "12/1",
+              "american": 1200,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "8",
+              "info": "Anytime - dos Santos Dudu",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "17.00",
+              "fractional": "16/1",
+              "american": 1600,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "9",
+              "info": "Anytime - Moraes Willian Maranhao",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "17.00",
+              "fractional": "16/1",
+              "american": 1600,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "10",
+              "info": "Anytime - Conceicao Rickson",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "17.00",
+              "fractional": "16/1",
+              "american": 1600,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "11",
+              "info": "Anytime - Luis Juninho Capixaba",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "19.00",
+              "fractional": "18/1",
+              "american": 1800,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "12",
+              "info": "Anytime - de Oliveira Patrick",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "21.00",
+              "fractional": "20/1",
+              "american": 2000,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "13",
+              "info": "Anytime - Pereira Pedrao",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "23.00",
+              "fractional": "22/1",
+              "american": 2200,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "14",
+              "info": "Anytime - da Silva Nino Paraiba",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "23.00",
+              "fractional": "22/1",
+              "american": 2200,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "15",
+              "info": "Anytime - Graminho Eder Ferreira",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "23.00",
+              "fractional": "22/1",
+              "american": 2200,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "16",
+              "info": "Anytime - Santos Matheus Bahia",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "23.00",
+              "fractional": "22/1",
+              "american": 2200,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "17",
+              "info": "Anytime - Santos Gustavo Henrique",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "23.00",
+              "fractional": "22/1",
+              "american": 2200,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "18",
+              "info": "Anytime - Santos Arthur Henrique",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "23.00",
+              "fractional": "22/1",
+              "american": 2200,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            },
+            {
+              "order": "19",
+              "info": "Anytime - German Conti",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "26.00",
+              "fractional": "25/1",
+              "american": 2500,
+              "handicap": "",
+              "description": "Goalscorers - Anytime",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 1265634161,
+          "values": [
+            {
+              "order": "0",
+              "info": "2 or more - Filho Ze Roberto",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "67.00",
+              "fractional": "66/1",
+              "american": 6600,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "2 or more - Hugo Rodallega",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "67.00",
+              "fractional": "66/1",
+              "american": 6600,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "2 or more - Marinho Rodriguinho",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "67.00",
+              "fractional": "66/1",
+              "american": 6600,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "2 or more - Rai Rocha Soars",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "67.00",
+              "fractional": "66/1",
+              "american": 6600,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "4",
+              "info": "2 or more - Martins Ronald",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "81.00",
+              "fractional": "80/1",
+              "american": 8000,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "5",
+              "info": "2 or more - de Souza Janderson",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "101.00",
+              "fractional": "100/1",
+              "american": 10000,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "6",
+              "info": "2 or more - Lucas Mugni",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "101.00",
+              "fractional": "100/1",
+              "american": 10000,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "7",
+              "info": "2 or more - Rodrigues Marlon Freitas",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "126.00",
+              "fractional": "125/1",
+              "american": 12500,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "8",
+              "info": "2 or more - dos Santos Dudu",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "151.00",
+              "fractional": "150/1",
+              "american": 15000,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "9",
+              "info": "2 or more - Luis Juninho Capixaba",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "151.00",
+              "fractional": "150/1",
+              "american": 15000,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "10",
+              "info": "2 or more - Moraes Willian Maranhao",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "151.00",
+              "fractional": "150/1",
+              "american": 15000,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "11",
+              "info": "2 or more - Conceicao Rickson",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "151.00",
+              "fractional": "150/1",
+              "american": 15000,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "12",
+              "info": "2 or more - de Oliveira Patrick",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "201.00",
+              "fractional": "200/1",
+              "american": 20000,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "13",
+              "info": "2 or more - Pereira Pedrao",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "201.00",
+              "fractional": "200/1",
+              "american": 20000,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "14",
+              "info": "2 or more - da Silva Nino Paraiba",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "201.00",
+              "fractional": "200/1",
+              "american": 20000,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "15",
+              "info": "2 or more - Graminho Eder Ferreira",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "201.00",
+              "fractional": "200/1",
+              "american": 20000,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "16",
+              "info": "2 or more - Santos Matheus Bahia",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "201.00",
+              "fractional": "200/1",
+              "american": 20000,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "17",
+              "info": "2 or more - Santos Gustavo Henrique",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "201.00",
+              "fractional": "200/1",
+              "american": 20000,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "18",
+              "info": "2 or more - Santos Arthur Henrique",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "201.00",
+              "fractional": "200/1",
+              "american": 20000,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "19",
+              "info": "2 or more - German Conti",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "251.00",
+              "fractional": "250/1",
+              "american": 25000,
+              "handicap": "",
+              "description": "Multi Scorers - 2 or more",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "3 or More - Filho Ze Roberto",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "201.00",
+              "fractional": "200/1",
+              "american": 20000,
+              "handicap": "",
+              "description": "Multi Scorers - 3 or More",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "3 or More - Hugo Rodallega",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "201.00",
+              "fractional": "200/1",
+              "american": 20000,
+              "handicap": "",
+              "description": "Multi Scorers - 3 or More",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "3 or More - Marinho Rodriguinho",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "251.00",
+              "fractional": "250/1",
+              "american": 25000,
+              "handicap": "",
+              "description": "Multi Scorers - 3 or More",
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "3 or More - Rai Rocha Soars",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "201.00",
+              "fractional": "200/1",
+              "american": 20000,
+              "handicap": "",
+              "description": "Multi Scorers - 3 or More",
+              "suspend": false
+            },
+            {
+              "order": "4",
+              "info": "3 or More - Martins Ronald",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "251.00",
+              "fractional": "250/1",
+              "american": 25000,
+              "handicap": "",
+              "description": "Multi Scorers - 3 or More",
+              "suspend": false
+            },
+            {
+              "order": "5",
+              "info": "3 or More - de Souza Janderson",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "501.00",
+              "fractional": "500/1",
+              "american": 50000,
+              "handicap": "",
+              "description": "Multi Scorers - 3 or More",
+              "suspend": false
+            },
+            {
+              "order": "6",
+              "info": "3 or More - Lucas Mugni",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "501.00",
+              "fractional": "500/1",
+              "american": 50000,
+              "handicap": "",
+              "description": "Multi Scorers - 3 or More",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 1265634183,
+          "values": [
+            {
+              "order": "0",
+              "info": "Over -  0.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.55",
+              "fractional": "11/20",
+              "american": -182,
+              "handicap": "0.5",
+              "description": "Goal Line (0-0) - Over",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Over -  0.5,1.0",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.80",
+              "fractional": "4/5",
+              "american": -125,
+              "handicap": "0.75",
+              "description": "Goal Line (0-0) - Over",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Over -  1",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "2.35",
+              "fractional": "27/20",
+              "american": 135,
+              "handicap": "1",
+              "description": "Goal Line (0-0) - Over",
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "Over -  1.0,1.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "3.00",
+              "fractional": "2/1",
+              "american": 200,
+              "handicap": "1.25",
+              "description": "Goal Line (0-0) - Over",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Under -  0.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "2.38",
+              "fractional": "11/8",
+              "american": 138,
+              "handicap": "0.5",
+              "description": "Goal Line (0-0) - Under",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Under -  0.5,1.0",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "2.05",
+              "fractional": "21/20",
+              "american": 104,
+              "handicap": "0.75",
+              "description": "Goal Line (0-0) - Under",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Under -  1",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.58",
+              "fractional": "23/40",
+              "american": -173,
+              "handicap": "1",
+              "description": "Goal Line (0-0) - Under",
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "Under -  1.0,1.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.38",
+              "fractional": "3/8",
+              "american": -264,
+              "handicap": "1.25",
+              "description": "Goal Line (0-0) - Under",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:47.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 1265635587,
+          "values": [
+            {
+              "order": "0",
+              "info": "Goal Before - 60:00",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "9.00",
+              "fractional": "8/1",
+              "american": 800,
+              "handicap": null,
+              "description": "Time of 1st Goal - Atletico Goianiense - Goal Before",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Goal Before - 70:00",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "4.50",
+              "fractional": "7/2",
+              "american": 350,
+              "handicap": null,
+              "description": "Time of 1st Goal - Atletico Goianiense - Goal Before",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Goal Before - 80:00",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "3.40",
+              "fractional": "12/5",
+              "american": 240,
+              "handicap": null,
+              "description": "Time of 1st Goal - Atletico Goianiense - Goal Before",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "No Goal Before - 60:00",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "1.04",
+              "fractional": "1/25",
+              "american": -2500,
+              "handicap": null,
+              "description": "Time of 1st Goal - Atletico Goianiense - No Goal Before",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "No Goal Before - 70:00",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "1.17",
+              "fractional": "1/6",
+              "american": -589,
+              "handicap": null,
+              "description": "Time of 1st Goal - Atletico Goianiense - No Goal Before",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "No Goal Before - 80:00",
+              "bm_fixture_id": "111284503",
+              "team": "Home",
+              "value": "1.30",
+              "fractional": "3/10",
+              "american": -334,
+              "handicap": null,
+              "description": "Time of 1st Goal - Atletico Goianiense - No Goal Before",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 1265635604,
+          "values": [
+            {
+              "order": "0",
+              "info": "Over - 7",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.18",
+              "fractional": "2/11",
+              "american": -556,
+              "handicap": "7",
+              "description": "Match Corners - Over",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Over - 8",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.50",
+              "fractional": "1/2",
+              "american": -200,
+              "handicap": "8",
+              "description": "Match Corners - Over",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Over - 9",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "2.00",
+              "fractional": "1/1",
+              "american": 100,
+              "handicap": "9",
+              "description": "Match Corners - Over",
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "Over - 10",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "3.25",
+              "fractional": "9/4",
+              "american": 225,
+              "handicap": "10",
+              "description": "Match Corners - Over",
+              "suspend": false
+            },
+            {
+              "order": "4",
+              "info": "Over - 11",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "5.50",
+              "fractional": "9/2",
+              "american": 450,
+              "handicap": "11",
+              "description": "Match Corners - Over",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Exactly - 7",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "6.50",
+              "fractional": "11/2",
+              "american": 550,
+              "handicap": "7",
+              "description": "Match Corners - Exactly",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Exactly - 8",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "5.00",
+              "fractional": "4/1",
+              "american": 400,
+              "handicap": "8",
+              "description": "Match Corners - Exactly",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Exactly - 9",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "5.00",
+              "fractional": "4/1",
+              "american": 400,
+              "handicap": "9",
+              "description": "Match Corners - Exactly",
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "Exactly - 10",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "5.50",
+              "fractional": "9/2",
+              "american": 450,
+              "handicap": "10",
+              "description": "Match Corners - Exactly",
+              "suspend": false
+            },
+            {
+              "order": "4",
+              "info": "Exactly - 11",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "6.50",
+              "fractional": "11/2",
+              "american": 550,
+              "handicap": "11",
+              "description": "Match Corners - Exactly",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Under - 7",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "11.00",
+              "fractional": "10/1",
+              "american": 1000,
+              "handicap": "7",
+              "description": "Match Corners - Under",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Under - 8",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "4.50",
+              "fractional": "7/2",
+              "american": 350,
+              "handicap": "8",
+              "description": "Match Corners - Under",
+              "suspend": false
+            },
+            {
+              "order": "2",
+              "info": "Under - 9",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "2.50",
+              "fractional": "6/4",
+              "american": 150,
+              "handicap": "9",
+              "description": "Match Corners - Under",
+              "suspend": false
+            },
+            {
+              "order": "3",
+              "info": "Under - 10",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.73",
+              "fractional": "8/11",
+              "american": -137,
+              "handicap": "10",
+              "description": "Match Corners - Under",
+              "suspend": false
+            },
+            {
+              "order": "4",
+              "info": "Under - 11",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.33",
+              "fractional": "1/3",
+              "american": -304,
+              "handicap": "11",
+              "description": "Match Corners - Under",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:47.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 1265635605,
+          "values": [
+            {
+              "order": "0",
+              "info": "7th Corner - Atletico Goianiense",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.62",
+              "fractional": "8/13",
+              "american": -162,
+              "handicap": null,
+              "description": "Corners - 7th Corner",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "7th Corner - Bahia",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "2.20",
+              "fractional": "6/5",
+              "american": 120,
+              "handicap": null,
+              "description": "Corners - 7th Corner",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Last - Atletico Goianiense",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.62",
+              "fractional": "8/13",
+              "american": -162,
+              "handicap": null,
+              "description": "Corners - Last",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Last - Bahia",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "2.20",
+              "fractional": "6/5",
+              "american": 120,
+              "handicap": null,
+              "description": "Corners - Last",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:48.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        },
+        {
+          "bookmaker_id": 2,
+          "market_id": 1265635606,
+          "values": [
+            {
+              "order": "0",
+              "info": "Over |  0.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "4.33",
+              "fractional": "10/3",
+              "american": 333,
+              "handicap": "0.5",
+              "description": "Next 10 Minutes (60:00 - 69:59) - Over",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Over |  0.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.44",
+              "fractional": "4/9",
+              "american": -228,
+              "handicap": "0.5",
+              "description": "Next 10 Minutes (60:00 - 69:59) - Over",
+              "suspend": false
+            },
+            {
+              "order": "0",
+              "info": "Under |  0.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "1.20",
+              "fractional": "1/5",
+              "american": -501,
+              "handicap": "0.5",
+              "description": "Next 10 Minutes (60:00 - 69:59) - Under",
+              "suspend": false
+            },
+            {
+              "order": "1",
+              "info": "Under |  0.5",
+              "bm_fixture_id": "111284503",
+              "team": null,
+              "value": "2.63",
+              "fractional": "13/8",
+              "american": 163,
+              "handicap": "0.5",
+              "description": "Next 10 Minutes (60:00 - 69:59) - Under",
+              "suspend": false
+            }
+          ],
+          "last_update": {
+            "date": "2021-11-29 23:14:28.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+          }
+        }
+      ]
+    }
+  }
+}

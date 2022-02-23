@@ -1,0 +1,61 @@
+@use "sass:map";
+@import "colors";
+@import "breakpoints";
+
+$enable-rounded: false;
+$theme-colors: (
+  "primary": $primary,
+  "secondary": #eef5ed,
+  "muted": #f0f2ef,
+  "lightpink": #f7f9f7,
+  "warning": #e4af5e,
+  "danger": #dc6060,
+  "lightold": #f9f7e8,
+  "light": $light,
+  "white": white,
+  "grey": #60685f,
+  "yellow": $yellow,
+  "dangerous": $dangerous,
+);
+//$yiq-text-dark: $dark-1;
+$gray-900: $dark-1;
+$body-color: $dark-1;
+
+// Then include the following
+@import "bootstrap/scss/bootstrap.scss";
+@import "bootstrap-vue/src/index.scss";
+
+.btn-dangerous,
+.badge-dangerous {
+  @include button-variant(
+    $dangerous,
+    darken($dangerous, 7.5%),
+    darken($dangerous, 10%),
+    lighten($dangerous, 5%),
+    lighten($dangerous, 10%),
+    darken($dangerous, 30%)
+  );
+  border: none !important;
+  color: $red;
+
+  &:hover,
+  &:focus,
+  &:disabled,
+  &:active {
+    color: $red;
+    border: none !important;
+  }
+}
+
+.btn-outline-dangerousss {
+  @include button-outline-variant(
+    $dangerous,
+    #222222,
+    lighten($dangerous, 5%),
+    $dangerous
+  );
+}
+
+p {
+  margin-bottom: 0;
+}

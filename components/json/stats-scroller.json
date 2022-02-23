@@ -1,0 +1,1876 @@
+{
+  "ft_result": [
+    {
+      "title": "Played",
+      "active": true,
+      "home": "played_overall",
+      "away": "played_overall",
+      "options": [
+        {
+          "code": "played_overall",
+          "label": "Overall"
+        },
+        {
+          "code": "played_home",
+          "label": "Home"
+        },
+        {
+          "code": "played_away",
+          "label": "Away"
+        }
+      ],
+      "type": false
+    },
+    {
+      "title": "PPG",
+      "active": true,
+      "home": "points_overall_avg",
+      "away": "points_overall_avg",
+      "options": [
+        {
+          "code": "points_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "points_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "points_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "Games Won",
+      "active": true,
+      "home": "won_overall",
+      "away": "won_overall",
+      "options": [
+        {
+          "code": "won_overall",
+          "label": "Overall"
+        },
+        {
+          "code": "won_home",
+          "label": "Home"
+        },
+        {
+          "code": "won_away",
+          "label": "Away"
+        }
+      ],
+      "type": false
+    },
+    {
+      "title": "Games Lost",
+      "active": true,
+      "home": "lost_overall",
+      "away": "lost_overall",
+      "options": [
+        {
+          "code": "lost_overall",
+          "label": "Overall"
+        },
+        {
+          "code": "lost_home",
+          "label": "Home"
+        },
+        {
+          "code": "lost_away",
+          "label": "Away"
+        }
+      ],
+      "type": false
+    },
+    {
+      "title": "Win %",
+      "active": true,
+      "home": "won_overall_per",
+      "away": "won_overall_per",
+      "options": [
+        {
+          "code": "won_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "won_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "won_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Draw %",
+      "active": true,
+      "home": "drawn_overall_per",
+      "away": "drawn_overall_per",
+      "options": [
+        {
+          "code": "drawn_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "drawn_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "drawn_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Lost %",
+      "active": true,
+      "home": "lost_overall_per",
+      "away": "lost_overall_per",
+      "options": [
+        {
+          "code": "lost_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "lost_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "lost_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Win at HT %",
+      "active": true,
+      "home": "won_at_ht_overall_per",
+      "away": "won_at_ht_overall_per",
+      "options": [
+        {
+          "code": "won_at_ht_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "won_at_ht_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "won_at_ht_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Draw at HT %",
+      "active": true,
+      "home": "drawn_at_ht_overall_per",
+      "away": "drawn_at_ht_overall_per",
+      "options": [
+        {
+          "code": "drawn_at_ht_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "drawn_at_ht_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "drawn_at_ht_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Lost at HT %",
+      "active": true,
+      "home": "lost_at_ht_overall_per",
+      "away": "lost_at_ht_overall_per",
+      "options": [
+        {
+          "code": "lost_at_ht_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "lost_at_ht_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "lost_at_ht_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Scored (AVG)",
+      "active": true,
+      "home": "scored_overall_avg",
+      "away": "scored_overall_avg",
+      "options": [
+        {
+          "code": "scored_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "scored_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "scored_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    }
+  ],
+  "corners_1h": [
+    {
+      "title": "1H Corners (AVG)",
+      "active": true,
+      "home": "corners_total_1h_overall_avg",
+      "away": "corners_total_1h_overall_avg",
+      "options": [
+        {
+          "code": "corners_total_1h_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "corners_total_1h_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "corners_total_1h_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "1H Corners For (AVG)",
+      "active": true,
+      "home": "corners_for_1h_overall_avg",
+      "away": "corners_for_1h_overall_avg",
+      "options": [
+        {
+          "code": "corners_for_1h_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "corners_for_1h_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "corners_for_1h_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "1H Opponent Corners (AVG)",
+      "active": true,
+      "home": "corners_against_1h_overall_avg",
+      "away": "corners_against_1h_overall_avg",
+      "options": [
+        {
+          "code": "corners_against_1h_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "corners_against_1h_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "corners_against_1h_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "+2.5 1H Corners",
+      "active": true,
+      "home": "o25_corners_1h_overall_per",
+      "away": "o25_corners_1h_overall_per",
+      "options": [
+        {
+          "code": "o25_corners_1h_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o25_corners_1h_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o25_corners_1h_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "+3.5 1H Corners",
+      "active": true,
+      "home": "o35_corners_1h_overall_per",
+      "away": "o35_corners_1h_overall_per",
+      "options": [
+        {
+          "code": "o35_corners_1h_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o35_corners_1h_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o35_corners_1h_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "AVG First Corner Time",
+      "active": true,
+      "home": "first_corner_total_avg",
+      "away": "first_corner_total_avg",
+      "options": false,
+      "type": false
+    },
+    {
+      "title": "AVG First Corner For Time",
+      "active": true,
+      "home": "first_corner_for_avg",
+      "away": "first_corner_for_avg",
+      "options": false,
+      "type": false
+    },
+    {
+      "title": "AVG First Corner Against Time",
+      "active": true,
+      "home": "first_corner_against_avg",
+      "away": "first_corner_against_avg",
+      "options": false,
+      "type": false
+    },
+
+    {
+      "title": "Most Corners 1H %",
+      "active": true,
+      "home": "most_corners_1h_overall_per",
+      "away": "most_corners_1h_overall_per",
+      "options": [
+        {
+          "code": "most_corners_1h_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "most_corners_1h_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "most_corners_1h_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Most Corners 2H %",
+      "active": true,
+      "home": "most_corners_2h_overall_per",
+      "away": "most_corners_2h_overall_per",
+      "options": [
+        {
+          "code": "most_corners_2h_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "most_corners_2h_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "most_corners_2h_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+
+    {
+      "title": "0-10' Corner %",
+      "active": true,
+      "home": "corners_between_0_10_overall_per",
+      "away": "corners_between_0_10_overall_per",
+      "options": [
+        {
+          "code": "corners_between_0_10_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "corners_between_0_10_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "corners_between_0_10_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "0-15' Corner %",
+      "active": true,
+      "home": "corners_between_0_15_overall_per",
+      "away": "corners_between_0_15_overall_per",
+      "options": [
+        {
+          "code": "corners_between_0_15_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "corners_between_0_15_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "corners_between_0_15_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "31-45' Corner %",
+      "active": true,
+      "home": "corners_between_31_45_overall_per",
+      "away": "corners_between_31_45_overall_per",
+      "options": [
+        {
+          "code": "corners_between_31_45_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "corners_between_31_45_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "corners_between_31_45_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "35-45' Corner %",
+      "active": true,
+      "home": "corners_between_35_45_overall_per",
+      "away": "corners_between_35_45_overall_per",
+      "options": [
+        {
+          "code": "corners_between_35_45_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "corners_between_35_45_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "corners_between_35_45_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Corners after 75th minute %",
+      "active": true,
+      "home": "corners_after_75_overall_per",
+      "away": "corners_after_75_overall_per",
+      "options": [
+        {
+          "code": "corners_after_75_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "corners_after_75_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "corners_after_75_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    }
+  ],
+  "btts": [
+    {
+      "title": "Played",
+      "active": true,
+      "home": "played_overall",
+      "away": "played_overall",
+      "options": [
+        {
+          "code": "played_overall",
+          "label": "Overall"
+        },
+        {
+          "code": "played_home",
+          "label": "Home"
+        },
+        {
+          "code": "played_away",
+          "label": "Away"
+        }
+      ],
+      "type": false
+    },
+    {
+      "title": "BTTS %",
+      "active": true,
+      "home": "btts_overall_per",
+      "away": "btts_overall_per",
+      "options": [
+        {
+          "code": "btts_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "btts_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "btts_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "BTTS & +2.5 %",
+      "active": true,
+      "home": "btts_o25_overall_per",
+      "away": "btts_o25_overall_per",
+      "options": [
+        {
+          "code": "btts_o25_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "btts_o25_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "btts_o25_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "BTTS or +2.5 %",
+      "active": true,
+      "home": "btts_or_o25_overall_per",
+      "away": "btts_or_o25_overall_per",
+      "options": [
+        {
+          "code": "btts_or_o25_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "btts_or_o25_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "btts_or_o25_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Scored (AVG)",
+      "active": true,
+      "home": "scored_overall_avg",
+      "away": "scored_overall_avg",
+      "options": [
+        {
+          "code": "scored_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "scored_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "scored_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "Failed to Score",
+      "active": true,
+      "home": "fts_overall_per",
+      "away": "fts_overall_per",
+      "options": [
+        {
+          "code": "fts_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "fts_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "fts_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "+1.5 Goals %",
+      "active": true,
+      "home": "o15_goals_overall_per",
+      "away": "o15_goals_overall_per",
+      "options": [
+        {
+          "code": "o15_goals_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o15_goals_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o15_goals_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "+2.5 Goals %",
+      "active": true,
+      "home": "o25_goals_overall_per",
+      "away": "o25_goals_overall_per",
+      "options": [
+        {
+          "code": "o25_goals_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o25_goals_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o25_goals_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Conceded (AVG)",
+      "active": true,
+      "home": "conceded_overall_avg",
+      "away": "conceded_overall_avg",
+      "options": [
+        {
+          "code": "conceded_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "conceded_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "conceded_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "Clean Sheet %",
+      "active": true,
+      "home": "clean_sheets_overall_per",
+      "away": "clean_sheets_overall_per",
+      "options": [
+        {
+          "code": "clean_sheets_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "clean_sheets_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "clean_sheets_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    }
+  ],
+  "overs": [
+    {
+      "title": "Played",
+      "active": true,
+      "home": "played_overall",
+      "away": "played_overall",
+      "options": [
+        {
+          "code": "played_overall",
+          "label": "Overall"
+        },
+        {
+          "code": "played_home",
+          "label": "Home"
+        },
+        {
+          "code": "played_away",
+          "label": "Away"
+        }
+      ],
+      "type": false
+    },
+    {
+      "title": "PPG",
+      "active": true,
+      "home": "points_overall_avg",
+      "away": "points_overall_avg",
+      "options": [
+        {
+          "code": "points_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "points_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "points_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "+1.5 Goals %",
+      "active": true,
+      "home": "o15_goals_overall_per",
+      "away": "o15_goals_overall_per",
+      "options": [
+        {
+          "code": "o15_goals_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o15_goals_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o15_goals_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "+2.5 Goals %",
+      "active": true,
+      "home": "o25_goals_overall_per",
+      "away": "o25_goals_overall_per",
+      "options": [
+        {
+          "code": "o25_goals_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o25_goals_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o25_goals_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Scored (AVG)",
+      "active": true,
+      "home": "scored_overall_avg",
+      "away": "scored_overall_avg",
+      "options": [
+        {
+          "code": "scored_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "scored_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "scored_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "Goal Difference",
+      "active": true,
+      "home": "goal_difference_overall",
+      "away": "goal_difference_overall",
+      "options": [
+        {
+          "code": "goal_difference_overall",
+          "label": "Overall"
+        },
+        {
+          "code": "goal_difference_home",
+          "label": "Home"
+        },
+        {
+          "code": "goal_difference_away",
+          "label": "Away"
+        }
+      ],
+      "type": false
+    },
+    {
+      "title": "Conceded (AVG)",
+      "active": true,
+      "home": "conceded_overall_avg",
+      "away": "conceded_overall_avg",
+      "options": [
+        {
+          "code": "conceded_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "conceded_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "conceded_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "Clean Sheet %",
+      "active": true,
+      "home": "clean_sheets_overall_per",
+      "away": "clean_sheets_overall_per",
+      "options": [
+        {
+          "code": "clean_sheets_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "clean_sheets_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "clean_sheets_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    }
+  ],
+  "goals_1h": [
+    {
+      "title": "+0.5 1H Goals %",
+      "active": true,
+      "home": "o05_goals_1h_overall_per",
+      "away": "o05_goals_1h_overall_per",
+      "options": [
+        {
+          "code": "o05_goals_1h_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o05_goals_1h_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o05_goals_1h_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "+1.5 1H Goals %",
+      "active": true,
+      "home": "o15_goals_1h_overall_per",
+      "away": "o15_goals_1h_overall_per",
+      "options": [
+        {
+          "code": "o15_goals_1h_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o15_goals_1h_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o15_goals_1h_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Win at HT %",
+      "active": true,
+      "home": "won_at_ht_overall_per",
+      "away": "won_at_ht_overall_per",
+      "options": [
+        {
+          "code": "won_at_ht_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "won_at_ht_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "won_at_ht_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Scored 1H (AVG)",
+      "active": true,
+      "home": "scored_1h_overall_avg",
+      "away": "scored_1h_overall_avg",
+      "options": [
+        {
+          "code": "scored_1h_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "scored_1h_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "scored_1h_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "0-0 % (1H)",
+      "active": true,
+      "home": "no_goals_1h_overall_per",
+      "away": "no_goals_1h_overall_per",
+      "options": [
+        {
+          "code": "no_goals_1h_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "no_goals_1h_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "no_goals_1h_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "AVG First Goal Time",
+      "active": true,
+      "home": "first_goal_total_avg",
+      "away": "first_goal_total_avg",
+      "options": false,
+      "type": false
+    },
+    {
+      "title": "0-15' Goal %",
+      "active": true,
+      "home": "goals_between_0_15_overall_per",
+      "away": "goals_between_0_15_overall_per",
+      "options": [
+        {
+          "code": "goals_between_0_15_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "goals_between_0_15_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "goals_between_0_15_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "0-15' Goal For %",
+      "active": true,
+      "home": "goals_between_0_15_for_overall_per",
+      "away": "goals_between_0_15_for_overall_per",
+      "options": [
+        {
+          "code": "goals_between_0_15_for_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "goals_between_0_15_for_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "goals_between_0_15_for_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "0-15' Goal Against %",
+      "active": true,
+      "home": "goals_between_0_15_against_overall_per",
+      "away": "goals_between_0_15_against_overall_per",
+      "options": [
+        {
+          "code": "goals_between_0_15_against_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "goals_between_0_15_against_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "goals_between_0_15_against_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "35-45' Goal %",
+      "active": true,
+      "home": "goals_between_35_45_overall_per",
+      "away": "goals_between_35_45_overall_per",
+      "options": [
+        {
+          "code": "goals_between_35_45_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "goals_between_35_45_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "goals_between_35_45_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Conceded 1H (AVG)",
+      "active": true,
+      "home": "conceded_1h_overall_avg",
+      "away": "conceded_1h_overall_avg",
+      "options": [
+        {
+          "code": "conceded_1h_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "conceded_1h_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "conceded_1h_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    }
+  ],
+  "corners_total": [
+    {
+      "title": "Total Corners (AVG)",
+      "active": true,
+      "home": "corners_total_overall_avg",
+      "away": "corners_total_overall_avg",
+      "options": [
+        {
+          "code": "corners_total_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "corners_total_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "corners_total_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "Corners For (AVG)",
+      "active": true,
+      "home": "corners_for_overall_avg",
+      "away": "corners_for_overall_avg",
+      "options": [
+        {
+          "code": "corners_for_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "corners_for_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "corners_for_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "Opponent Corners (AVG)",
+      "active": true,
+      "home": "corners_against_overall_avg",
+      "away": "corners_against_overall_avg",
+      "options": [
+        {
+          "code": "corners_against_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "corners_against_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "corners_against_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "+7.5 Corners",
+      "active": true,
+      "home": "o75_corners_overall_per",
+      "away": "o75_corners_overall_per",
+      "options": [
+        {
+          "code": "o75_corners_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o75_corners_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o75_corners_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "+8.5 Corners",
+      "active": true,
+      "home": "o85_corners_overall_per",
+      "away": "o85_corners_overall_per",
+      "options": [
+        {
+          "code": "o85_corners_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o85_corners_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o85_corners_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "+9.5 Corners",
+      "active": true,
+      "home": "o95_corners_overall_per",
+      "away": "o95_corners_overall_per",
+      "options": [
+        {
+          "code": "o95_corners_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o95_corners_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o95_corners_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "AVG Corner Time",
+      "active": true,
+      "home": "corner_timings_mean",
+      "away": "corner_timings_mean",
+      "options": false,
+      "type": false
+    },
+    {
+      "title": "35-45' Corner %",
+      "active": true,
+      "home": "corners_between_35_45_overall_per",
+      "away": "corners_between_35_45_overall_per",
+      "options": [
+        {
+          "code": "corners_between_35_45_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "corners_between_35_45_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "corners_between_35_45_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Corners After 75' %",
+      "active": true,
+      "home": "corners_after_75_overall_per",
+      "away": "corners_after_75_overall_per",
+      "options": [
+        {
+          "code": "corners_after_75_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "corners_after_75_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "corners_after_75_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "80-90' Corner %",
+      "active": true,
+      "home": "corners_between_80_90_overall_per",
+      "away": "corners_between_80_90_overall_per",
+      "options": [
+        {
+          "code": "corners_between_80_90_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "corners_between_80_90_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "corners_between_80_90_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    }
+  ],
+  "goals_2h": [
+    {
+      "title": "Played",
+      "active": true,
+      "home": "played_overall",
+      "away": "played_overall",
+      "options": [
+        {
+          "code": "played_overall",
+          "label": "Overall"
+        },
+        {
+          "code": "played_home",
+          "label": "Home"
+        },
+        {
+          "code": "played_away",
+          "label": "Away"
+        }
+      ],
+      "type": false
+    },
+    {
+      "title": "+0.5 2H Goals %",
+      "active": true,
+      "home": "o05_goals_2h_overall_per",
+      "away": "o05_goals_2h_overall_per",
+      "options": [
+        {
+          "code": "o05_goals_2h_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o05_goals_2h_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o05_goals_2h_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "+1.5 2H Goals %",
+      "active": true,
+      "home": "o15_goals_2h_overall_per",
+      "away": "o15_goals_2h_overall_per",
+      "options": [
+        {
+          "code": "o15_goals_2h_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o15_goals_2h_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o15_goals_2h_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Draw at HT %",
+      "active": true,
+      "home": "drawn_at_ht_overall_per",
+      "away": "drawn_at_ht_overall_per",
+      "options": [
+        {
+          "code": "drawn_at_ht_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "drawn_at_ht_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "drawn_at_ht_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Scored 2H (AVG)",
+      "active": true,
+      "home": "scored_2h_overall_avg",
+      "away": "scored_2h_overall_avg",
+      "options": [
+        {
+          "code": "scored_2h_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "scored_2h_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "scored_2h_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "AVG Goal Time",
+      "active": true,
+      "home": "goal_timings_mean",
+      "away": "goal_timings_mean",
+      "options": false,
+      "type": false
+    },
+    {
+      "title": "80-90' Goal %",
+      "active": true,
+      "home": "goals_between_80_90_overall_per",
+      "away": "goals_between_80_90_overall_per",
+      "options": [
+        {
+          "code": "goals_between_80_90_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "goals_between_80_90_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "goals_between_80_90_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "Conceded 2H (AVG)",
+      "active": true,
+      "home": "conceded_2h_overall_avg",
+      "away": "conceded_2h_overall_avg",
+      "options": [
+        {
+          "code": "conceded_2h_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "conceded_2h_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "conceded_2h_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    }
+  ],
+  "cards_total": [
+    {
+      "title": "Played",
+      "active": true,
+      "home": "played_overall",
+      "away": "played_overall",
+      "options": [
+        {
+          "code": "played_overall",
+          "label": "Overall"
+        },
+        {
+          "code": "played_home",
+          "label": "Home"
+        },
+        {
+          "code": "played_away",
+          "label": "Away"
+        }
+      ],
+      "type": false
+    },
+    {
+      "title": "Total Cards (AVG)",
+      "active": true,
+      "home": "cards_total_overall_avg",
+      "away": "cards_total_overall_avg",
+      "options": [
+        {
+          "code": "cards_total_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "cards_total_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "cards_total_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "Cards For (AVG)",
+      "active": true,
+      "home": "cards_for_overall_avg",
+      "away": "cards_for_overall_avg",
+      "options": [
+        {
+          "code": "cards_for_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "cards_for_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "cards_for_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "Opponent Cards (AVG)",
+      "active": true,
+      "home": "cards_against_overall_avg",
+      "away": "cards_against_overall_avg",
+      "options": [
+        {
+          "code": "cards_against_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "cards_against_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "cards_against_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "+2.5 Cards %",
+      "active": true,
+      "home": "o25_cards_overall_per",
+      "away": "o25_cards_overall_per",
+      "options": [
+        {
+          "code": "o25_cards_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o25_cards_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o25_cards_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "+3.5 Cards %",
+      "active": true,
+      "home": "o35_cards_overall_per",
+      "away": "o35_cards_overall_per",
+      "options": [
+        {
+          "code": "o35_cards_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o35_cards_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o35_cards_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "+4.5 Cards %",
+      "active": true,
+      "home": "o45_cards_overall_per",
+      "away": "o45_cards_overall_per",
+      "options": [
+        {
+          "code": "o45_cards_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o45_cards_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o45_cards_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "+5.5 Cards %",
+      "active": true,
+      "home": "o55_cards_overall_per",
+      "away": "o55_cards_overall_per",
+      "options": [
+        {
+          "code": "o55_cards_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o55_cards_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o55_cards_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    },
+    {
+      "title": "+6.5 Cards %",
+      "active": true,
+      "home": "o65_cards_overall_per",
+      "away": "o65_cards_overall_per",
+      "options": [
+        {
+          "code": "o65_cards_overall_per",
+          "label": "Overall"
+        },
+        {
+          "code": "o65_cards_home_per",
+          "label": "Home"
+        },
+        {
+          "code": "o65_cards_away_per",
+          "label": "Away"
+        }
+      ],
+      "type": "per"
+    }
+  ],
+  "cards_half": [
+    {
+      "title": "Played",
+      "active": true,
+      "home": "played_overall",
+      "away": "played_overall",
+      "options": [
+        {
+          "code": "played_overall",
+          "label": "Overall"
+        },
+        {
+          "code": "played_home",
+          "label": "Home"
+        },
+        {
+          "code": "played_away",
+          "label": "Away"
+        }
+      ],
+      "type": false
+    },
+    {
+      "title": "1H Cards (AVG)",
+      "active": true,
+      "home": "cards_total_1h_overall_avg",
+      "away": "cards_total_1h_overall_avg",
+      "options": [
+        {
+          "code": "cards_total_1h_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "cards_total_1h_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "cards_total_1h_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "1H Cards For (AVG)",
+      "active": true,
+      "home": "cards_for_1h_overall_avg",
+      "away": "cards_for_1h_overall_avg",
+      "options": [
+        {
+          "code": "cards_for_1h_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "cards_for_1h_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "cards_for_1h_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "1H Opponent Cards (AVG)",
+      "active": true,
+      "home": "cards_against_1h_overall_avg",
+      "away": "cards_against_1h_overall_avg",
+      "options": [
+        {
+          "code": "cards_against_1h_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "cards_against_1h_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "cards_against_1h_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "2H Cards (AVG)",
+      "active": true,
+      "home": "cards_total_2h_overall_avg",
+      "away": "cards_total_2h_overall_avg",
+      "options": [
+        {
+          "code": "cards_total_2h_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "cards_total_2h_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "cards_total_2h_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "2H Cards For (AVG)",
+      "active": true,
+      "home": "cards_for_2h_overall_avg",
+      "away": "cards_for_2h_overall_avg",
+      "options": [
+        {
+          "code": "cards_for_2h_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "cards_for_2h_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "cards_for_2h_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "2H Opponent Cards (AVG)",
+      "active": true,
+      "home": "cards_against_2h_overall_avg",
+      "away": "cards_against_2h_overall_avg",
+      "options": [
+        {
+          "code": "cards_against_2h_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "cards_against_2h_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "cards_against_2h_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "Total Cards (AVG)",
+      "active": true,
+      "home": "cards_total_overall_avg",
+      "away": "cards_total_overall_avg",
+      "options": [
+        {
+          "code": "cards_total_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "cards_total_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "cards_total_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "Cards For (AVG)",
+      "active": true,
+      "home": "cards_for_overall_avg",
+      "away": "cards_for_overall_avg",
+      "options": [
+        {
+          "code": "cards_for_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "cards_for_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "cards_for_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    },
+    {
+      "title": "Opponent Cards (AVG)",
+      "active": true,
+      "home": "cards_against_overall_avg",
+      "away": "cards_against_overall_avg",
+      "options": [
+        {
+          "code": "cards_against_overall_avg",
+          "label": "Overall"
+        },
+        {
+          "code": "cards_against_home_avg",
+          "label": "Home"
+        },
+        {
+          "code": "cards_against_away_avg",
+          "label": "Away"
+        }
+      ],
+      "type": "avg"
+    }
+  ]
+}

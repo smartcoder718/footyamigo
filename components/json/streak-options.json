@@ -1,0 +1,17 @@
+[
+  { "text": "Home Win", "value": "home_win" },
+  { "text": "Away Win", "value": "away_win" },
+  { "text": "Home Win HT", "value": "home_win_ht" },
+  { "text": "Away Win HT", "value": "away_win_ht" },
+  { "text": "BTTS", "value": "btts" },
+  { "text": "BTTS & Over 2.5 Goals", "value": "btts_o25" },
+  { "text": "Goals 1H", "value": "o05_goals_1h" },
+  { "text": "Over 1.5 Goals", "value": "o15_goals" },
+  { "text": "Over 2.5 Goals", "value": "o25_goals" },
+  { "text": "Under 3.5 Goals", "value": "u35_goals" },
+  { "text": "Under 2.5 Goals", "value": "u25_goals" },
+  { "text": "Most Goals 1H", "value": "most_goals_1h" },
+  { "text": "Most Goals 2H", "value": "most_goals_2h" },
+  { "text": "Over 8 Corners", "value": "o8_corners" },
+  { "text": "Under 10 Corners", "value": "u9_corners" }
+]

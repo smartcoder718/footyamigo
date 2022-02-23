@@ -1,0 +1,208 @@
+{
+  "home_formation": "4-4-2",
+  "away_forrmation": "4-3-3",
+  "stats": {
+    "home": {
+      "corners": 4,
+      "yellowcards": 2,
+      "redcards": 0,
+      "substitutions": 1,
+      "penalty": 3,
+      "goals": 5,
+      "attacks": 52,
+      "dangerous_attacks": 32,
+      "possession": 76,
+      "shots": 8,
+      "shots_on_target": 3,
+      "shots_off_target": 5,
+      "fouls": 4
+    },
+    "away": {
+      "corners": 3,
+      "yellowcards": 2,
+      "redcards": 1,
+      "substitutions": 2,
+      "penalty": 1,
+      "goals": 2,
+      "attacks": 29,
+      "dangerous_attacks": 18,
+      "possession": 24,
+      "shots": 3,
+      "shots_on_target": 1,
+      "shots_off_target": 2,
+      "fouls": 2
+    }
+  },
+  "events": {
+    "first_half": [
+      {
+        "id": 17956583001,
+        "team_id": "14639",
+        "type": "goal",
+        "fixture_id": 17956583,
+        "player_id": 3876800,
+        "player_name": "A. Uribe",
+        "player_assist_id": 2206999,
+        "player_assist_name": "B. Nieto",
+        "minute": 10,
+        "extra_minute": null,
+        "reason": null,
+        "result": "1-0",
+        "comment": "1st Goal"
+      },
+      {
+        "id": 17956583003,
+        "team_id": "13671",
+        "type": "penalty",
+        "fixture_id": 17956583,
+        "player_id": 214360,
+        "player_name": "L. Benegas",
+        "player_assist_id": null,
+        "player_assist_name": null,
+        "minute": 45,
+        "extra_minute": 3,
+        "reason": null,
+        "result": "1-1",
+        "comment": "2nd Goal"
+      },
+      {
+        "id": 3643262074,
+        "team_id": 13671,
+        "fixture_id": 17956583,
+        "minute": 22,
+        "extra_minute": null,
+        "comment": "1st Corner"
+      },
+      {
+        "id": 3643285629,
+        "team_id": 13671,
+        "fixture_id": 17956583,
+        "minute": 24,
+        "extra_minute": null,
+        "comment": "2nd Corner"
+      },
+      {
+        "id": 3643330640,
+        "team_id": 14639,
+        "fixture_id": 17956583,
+        "minute": 34,
+        "extra_minute": null,
+        "comment": "3rd Corner"
+      },
+      {
+        "id": 17956583002,
+        "team_id": "14639",
+        "type": "yellowcard",
+        "fixture_id": 17956583,
+        "player_id": 471357,
+        "player_name": "S. Cordero",
+        "minute": 45,
+        "extra_minute": 3,
+        "reason": null,
+        "on_pitch": null
+      }
+    ],
+    "second_half": [
+      {
+        "id": 17956583008,
+        "team_id": "14639",
+        "type": "yellowcard",
+        "fixture_id": 17956583,
+        "player_id": 234046,
+        "player_name": "D. Orellana",
+        "minute": 78,
+        "extra_minute": null,
+        "reason": null,
+        "on_pitch": null
+      },
+      {
+        "id": 17956583009,
+        "team_id": "13671",
+        "type": "yellowcard",
+        "fixture_id": 17956583,
+        "player_id": 471009,
+        "player_name": "D. Urzua",
+        "minute": 81,
+        "extra_minute": null,
+        "reason": null,
+        "on_pitch": null
+      },
+      {
+        "id": 17956583014,
+        "team_id": "14639",
+        "type": "yellowcard",
+        "fixture_id": 17956583,
+        "player_id": 3502685,
+        "player_name": "N. Demartini",
+        "minute": 90,
+        "extra_minute": null,
+        "reason": null,
+        "on_pitch": null
+      },
+      {
+        "id": 3643372502,
+        "team_id": 13671,
+        "fixture_id": 17956583,
+        "minute": 51,
+        "extra_minute": null,
+        "comment": "4th Corner"
+      },
+      {
+        "id": 3643384611,
+        "team_id": 14639,
+        "fixture_id": 17956583,
+        "minute": 64,
+        "extra_minute": null,
+        "comment": "5th Corner"
+      },
+      {
+        "id": 3643386586,
+        "team_id": 14639,
+        "fixture_id": 17956583,
+        "minute": 66,
+        "extra_minute": null,
+        "comment": "6th Corner"
+      },
+      {
+        "id": 3643386962,
+        "team_id": 14639,
+        "fixture_id": 17956583,
+        "minute": 67,
+        "extra_minute": null,
+        "comment": "7th Corner"
+      },
+      {
+        "id": 3643392072,
+        "team_id": 13671,
+        "fixture_id": 17956583,
+        "minute": 71,
+        "extra_minute": null,
+        "comment": "8th Corner"
+      },
+      {
+        "id": 3643404468,
+        "team_id": 13671,
+        "fixture_id": 17956583,
+        "minute": 85,
+        "extra_minute": null,
+        "comment": "9th Corner"
+      },
+      {
+        "id": 3643406183,
+        "team_id": 14639,
+        "fixture_id": 17956583,
+        "minute": 87,
+        "extra_minute": null,
+        "comment": "10th Corner"
+      },
+      {
+        "id": 3643408869,
+        "team_id": 13671,
+        "fixture_id": 17956583,
+        "minute": 90,
+        "extra_minute": null,
+        "comment": "11th Corner"
+      }
+    ]
+  }
+}

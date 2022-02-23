@@ -1,0 +1,14 @@
+{
+  "sum_of_teams": [],
+  "home": ["away", "favorite_playing_away", "underdog_playing_away"],
+  "away": ["home", "favorite_playing_home", "favorite_playing_away"],
+  "either_team": [],
+  "favorite": ["underdog", "underdog_playing_home", "underdog_playing_away"],
+  "favorite_playing_home": ["underdog", "underdog_playing_away", "away"],
+  "favorite_playing_away": ["underdog", "underdog_playing_home", "home"],
+  "underdog": ["favorite", "underdog_playing_away", "underdog_playing_home"],
+  "underdog_playing_home": ["favorite", "favorite_playing_away", "away"],
+  "underdog_playing_away": ["home", "favorite", "favorite_playing_home"],
+  "winning_team": ["losing_team"],
+  "losing_team": ["winning_team"]
+}

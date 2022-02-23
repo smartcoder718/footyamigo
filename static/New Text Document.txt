@@ -1,0 +1,68 @@
+Home Win        1.3  2.4
+Away Win        1.3  2.4
+Draw            1.3  2.4
+Home Win (HT)   -  
+Away Win (HT)   -  
+Draw     (HT)   -  
+Over 2.5 Goals  1.3  2.4
+Over 4.5 Goals  1.3  2.4
+
+
+home_win_odds > away_win_odds
+home_win_odds == away_win_odds
+home_win_odds < away_win_odds
+
+
+away_goals: 0
+cards: 0
+comparison: "<"
+corners: 0
+fixture_time: 1629198000
+goals: 0
+home_goals: 0
+id: 260902
+market: "ht_result"
+market_key: "draw"
+market_label: "X"
+market_name: "HT Result"
+minute: 60
+minute_comparison: "after"
+note: "Test bezeeal"
+odds: "5.50"
+odds_type: "default"
+planner: false
+result: "home_win"
+type: "odds"
+
+{
+  "type": "availability",
+  "planner": false,
+  "fixtures": [],
+  "data": [
+    28,
+    975925
+  ],
+  "fixture_id": 260902,
+  "fixture_name": "ECU Joondalup v Inglewood United",
+  "fixture_unix": 1629198000,
+  "existing": [
+    1,
+    12,
+    37,
+    63,
+    69,
+    975909,
+    975916,
+    975926,
+    975930,
+    975932,
+    976384,
+    136703821,
+    136703823,
+    137918013,
+    137918016,
+    137918020,
+    137918021,
+    1265634210
+  ]
+}

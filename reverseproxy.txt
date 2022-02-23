@@ -1,0 +1,39 @@
+location / {
+	proxy_ssl_server_name on;
+	proxy_pass       http://localhost:3000;
+
+	proxy_redirect   off;
+
+	proxy_set_header Host $host;
+
+	proxy_set_header X-Real-IP $remote_addr;
+
+	proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+
+	proxy_set_header X-Forwarded-Host $server_name;
+
+}
+
+location / {
+  proxy_pass http://thepoorcoder;
+
+}
+
+upstream thepoorcoder {
+    server 127.0.0.1:2370;
+}
+
+
+nginx -t
+
+Take the dump from the remote RDS Server:
+
+mysqldump -h rds.hostname -u remote_user_name -p remote_db > dump.sql
+
+When prompted for a password, give the password for user=remote_user_name (remote server)
+
+Upload it to your local MySQL instance:
+
+mysql -u local_user_name -p local_db < dump.sql
+
+

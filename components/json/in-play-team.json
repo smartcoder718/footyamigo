@@ -1,0 +1,50 @@
+{
+  "sum_of_teams": {
+    "value": "sum_of_teams",
+    "text": "Both Teams Combined"
+  },
+  "home": {
+    "value": "home",
+    "text": "Home"
+  },
+  "away": {
+    "value": "away",
+    "text": "Away"
+  },
+  "either_team": {
+    "value": "either_team",
+    "text": "Either team"
+  },
+  "favorite": {
+    "value": "favorite",
+    "text": "Favorite"
+  },
+  "favorite_playing_home": {
+    "value": "favorite_playing_home",
+    "text": "Favorite playing Home"
+  },
+  "favorite_playing_away": {
+    "value": "favorite_playing_away",
+    "text": "Favorite playing Away"
+  },
+  "underdog": {
+    "value": "underdog",
+    "text": "Underdog"
+  },
+  "underdog_playing_home": {
+    "value": "underdog_playing_home",
+    "text": "Underdog playing Home"
+  },
+  "underdog_playing_away": {
+    "value": "underdog_playing_away",
+    "text": "Underdog playing Away"
+  },
+  "winning_team": {
+    "value": "winning_team",
+    "text": "Winning team"
+  },
+  "losing_team": {
+    "value": "losing_team",
+    "text": "Losing team"
+  }
+}

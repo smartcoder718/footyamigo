@@ -1,0 +1,32 @@
+{
+  ">=": {
+    "value": ">=",
+    "text": "\u2265 (More than or equals to)",
+    "info": "More than or equals to"
+  },
+  ">": {
+    "value": ">",
+    "text": "> (More than)",
+    "info": "More than"
+  },
+  "<=": {
+    "value": "<=",
+    "text": "\u2264 (Less or equals to)",
+    "info": "Less or equals to"
+  },
+  "<": {
+    "value": "<",
+    "text": "< (Less than)",
+    "info": "Less than"
+  },
+  "=": {
+    "value": "=",
+    "text": "= (Equal)",
+    "info": "Equals to"
+  },
+  "!=": {
+    "value": "!=",
+    "text": "\u2260 (Not equals to)",
+    "info": "Not equals to"
+  }
+}

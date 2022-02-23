@@ -1,0 +1,31 @@
+{
+  "_id": { "$oid": "6181a1476a8b1f99203adb36" },
+  "email": "vishalbty@gmail.com",
+  "password": "$2a$10$dYGxYLLJxu/lySeewd84g.nAI4A.QBxbQqYPeWxkZNa793z/BJdVK",
+  "firstname": "Old ",
+  "lastname": "Basumatary",
+  "utcoffset": 330,
+  "locale": "en",
+  "role": "trial",
+  "telegram": "342833991",
+  "created_at": { "$date": "2021-09-21T09:51:57.000Z" },
+  "updated_at": { "$date": "2021-11-01T13:55:19.000Z" },
+  "avatar_id": 9,
+  "id": 1,
+  "strategies": [],
+  "subscription": {
+    "status": "active",
+    "end_date": { "$date": "2022-10-13T18:29:00.000Z" },
+    "id": 38,
+    "name": "Pro Subscription",
+    "price": "24.99",
+    "days": 30,
+    "trial": 0,
+    "email": "vishalbty@gmail.com",
+    "plan_id": 1,
+    "order_id": "29419827-30887857",
+    "subscription_id": "9225049",
+    "start_date": { "$date": "2021-10-13T02:26:52.000Z" }
+  },
+  "__v": 0
+}

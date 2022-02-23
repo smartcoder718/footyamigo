@@ -1,0 +1,438 @@
+[
+    {
+        "type": "header",
+        "version": "5.1.1",
+        "comment": "Export to JSON plugin for PHPMyAdmin"
+    },
+    {
+        "type": "database",
+        "name": "footyamigoteam"
+    },
+    {
+        "type": "table",
+        "name": "bookmakers",
+        "database": "footyamigoteam",
+        "data": [
+            {
+                "id": "1",
+                "name": "10Bet",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "2",
+                "name": "bet365",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "3",
+                "name": "188Bet",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "5",
+                "name": "5 Dimes",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "7",
+                "name": "888Sport",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "9",
+                "name": "BetFred",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "11",
+                "name": "Bet-At-Home",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "13",
+                "name": "BetCRIS",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "15",
+                "name": "Betfair",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "17",
+                "name": "BetOnline",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "19",
+                "name": "BetRedKings",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "21",
+                "name": "BetVictor",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "23",
+                "name": "Coral",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "25",
+                "name": "Dafabet",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "27",
+                "name": "Intertops",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "36",
+                "name": "Marathonbet",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "44",
+                "name": "Matchbook",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "53",
+                "name": "MyBet",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "62",
+                "name": "Paddy Power",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "70",
+                "name": "Pncl",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "80",
+                "name": "Sportsbet",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "88",
+                "name": "Tipico",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "97",
+                "name": "Unibet",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "105",
+                "name": "Betsafe",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "106",
+                "name": "WinLineBet",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "114",
+                "name": "Betsson",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "129",
+                "name": "Interwetten",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "150",
+                "name": "bwin",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "187",
+                "name": "WilliamHill",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "1445",
+                "name": "Stan James",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "2467",
+                "name": "TitanBet",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "27802",
+                "name": "Ladbrokes",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "25679219",
+                "name": "Marathon",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "25679320",
+                "name": "Sbo",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "25679340",
+                "name": "1xbet",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271056727",
+                "name": "Planetwin365",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057006",
+                "name": "BetClic",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057009",
+                "name": "CloudBet",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057011",
+                "name": "Betway",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057012",
+                "name": "Nitrogen Sports",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057013",
+                "name": "Skybet",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057080",
+                "name": "Pncl",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057082",
+                "name": "Interwetten",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057083",
+                "name": "Bovada",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057085",
+                "name": "bodog",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057086",
+                "name": "BetClick",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057087",
+                "name": "WagerBet",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057088",
+                "name": "You Wager",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057089",
+                "name": "BetUS",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057090",
+                "name": "MyBookie",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057091",
+                "name": "Sportingbet",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057093",
+                "name": "Neds",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057094",
+                "name": "Skybook",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057095",
+                "name": "Expekt",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057098",
+                "name": "NordicBet",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057099",
+                "name": "ComeOn",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057102",
+                "name": "Cashpoint",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057103",
+                "name": "MansionBet",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057104",
+                "name": "HKJC",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            },
+            {
+                "id": "271057105",
+                "name": "BetRegal",
+                "logo": null,
+                "createdAt": "2021-08-24 10:30:43",
+                "updatedAt": "2021-08-24 10:30:43"
+            }
+        ]
+    }
+]

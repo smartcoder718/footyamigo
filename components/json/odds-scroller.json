@@ -1,0 +1,92 @@
+[
+  {
+    "col": "home_win",
+    "title": "Home Win"
+  },
+  {
+    "col": "draw",
+    "title": "Draw"
+  },
+  {
+    "col": "away_win",
+    "title": "Away Win"
+  },
+  {
+    "col": "home_win_ht",
+    "title": "Home Win (HT)"
+  },
+  {
+    "col": "draw_ht",
+    "title": "Draw (HT)"
+  },
+  {
+    "col": "away_win_ht",
+    "title": "Away Win (HT)"
+  },
+  {
+    "col": "btts",
+    "title": "BTTS Yes"
+  },
+  {
+    "col": "btts_no",
+    "title": "BTTS No"
+  },
+  {
+    "col": "home_win_or_draw",
+    "title": "Double Chance (1X)"
+  },
+  {
+    "col": "away_win_or_draw",
+    "title": "Double Chance (X2)"
+  },
+  {
+    "col": "home_win_or_away_win",
+    "title": "Double Chance (12)"
+  },
+
+  {
+    "col": "dnb_home",
+    "title": "1 DNB"
+  },
+  {
+    "col": "dnb_away",
+    "title": "2 DNB"
+  },
+
+  {
+    "col": "o15_goals",
+    "title": "+1.5 Goals"
+  },
+  {
+    "col": "o25_goals",
+    "title": "+2.5 Goals"
+  },
+  {
+    "col": "o35_goals",
+    "title": "+3.5 Goals"
+  },
+  {
+    "col": "u15_goals",
+    "title": "-1.5 Home Goals"
+  },
+  {
+    "col": "u25_goals",
+    "title": "-2.5 Home Goals"
+  },
+  {
+    "col": "o05_goals_1h",
+    "title": "+0.5 Goals 1H"
+  },
+  {
+    "col": "o15_goals_1h",
+    "title": "+1.5 Goals 1H"
+  },
+  {
+    "col": "o05_goals_2h",
+    "title": "+0.5 Goals 2H"
+  },
+  {
+    "col": "o15_goals_2h",
+    "title": "+1.5 Goals 2H"
+  }
+]

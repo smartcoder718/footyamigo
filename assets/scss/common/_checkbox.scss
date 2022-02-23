@@ -1,0 +1,66 @@
+.checkbox-invisible {
+  position: relative;
+  .checkbox-invisible-input {
+    position: absolute; // take it out of document flow
+    display: none; // hide it
+    height: 100%;
+    & + label {
+      position: relative;
+      padding: 14px 14px;
+      padding-left: 42px;
+      cursor: pointer;
+      //line-height: 20px;
+      display: flex;
+      color: $dark-1;
+      //border: 2px solid #cfd8cf;
+      //box-sizing: border-box;
+      background: white;
+      //border-radius: 12px;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      //text-align: center;
+    }
+    .invisible-input {
+      position: relative;
+      padding: 14px 14px;
+      padding-left: 42px;
+      cursor: pointer;
+      display: flex;
+      color: $dark-1;
+      background: white;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    & + label:before {
+      font-family: "Material Icons Outlined";
+      content: "done";
+      position: absolute;
+      left: 22px;
+      top: 50%;
+      width: 16px;
+      height: 16px;
+      //border: 4px solid white;
+      border: 2px solid #cfd8cf;
+      border-radius: 50%;
+      background: #cfd8cf;
+      color: white;
+      display: flex;
+      align-items: center;
+      font-size: 12px;
+      font-weight: bold;
+      justify-content: center;
+      transform: translate(-50%, -50%);
+    }
+    &[type="checkbox"]:checked + label:before {
+      background: $primary;
+      border: 2px solid $primary;
+    }
+    &[type="checkbox"]:checked + label {
+      h6 {
+        color: $primary;
+      }
+      background: $light;
+      color: $primary;
+    }
+  }
+}
